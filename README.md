@@ -23,6 +23,11 @@ https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/
 
 ### Context
 
+- Week 1 Tom Igoe TEDxTalk response:  
+It feels very vulnerable to share things that you’ve made on the internet. I’ve felt this way for a multitude of different reasons — including being scared of what others might think, not having confidence in my creations, or even feeling a tinge of selfishness. 
+
+This TED talk was a good reminder that the practice of sharing and borrowing ideas is at the heart of the most vibrant & creative communities. I loved Tom Igoe’s repetition of the word “conviviality.” It’s a word I don’t hear often, and it’s clear to me now how conviviality & technology go hand in hand. Friendliness, liveliness, and openness are all important contributors in creating change & big ideas. 
+
 - Summarize the article(s) in 3-4 sentences. Also include...
 - 1 quote from the reading(s)
 - 1 related comment on the reading(s)
