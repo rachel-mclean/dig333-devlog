@@ -64,7 +64,7 @@ https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/
 
 <!-- List each Platt experiment / Monk recipe outcome, adding notes, photos, schematics, captions to show your work. -->
 
-1. Command line activity new commands to remember:
+1. Command line activity: new commands to remember
     * whoami (returns your name)
     * vim hello.txt (create & open text file in vim, press i to type and esc to delete, :wq to save and quit)
     * cat hello.txt (view contents of a file)
