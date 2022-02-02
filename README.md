@@ -44,20 +44,20 @@ https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/
     1. 1 related follow-up question (what question does it bring up for you?)  It's scary to think that functional household items (such as old-fashioned non-ioT thermostats) could become obsolete in exchange for internet-connected devices that might become quickly outdated as smart technology continues to evolve. My question is: Is it ok to sacrifice advanced technologicaly innovation for simple functionality? In other words, do you think there will there ever come a point when thermostat manufacters, for example, think to themselves, "Ok. We don't need a thermostat more advanced that this. We can stop here." Or is technological innovation too rooted in consumerism to come to this conclusion?
 
 - Basical Terminal Usage Video commands to remember:
-    *ls  (see current directory)
-    *cd  (change directory) 
-    *cd . . (go up one directory)
-    *command+k (clears terminal)
-    *cd / (takes you to root directory)
-    *mkdir (make directory)
-    *rm directory_name (remove directory)
-    *rm -r directory_name (remove directory and everything in it)
-    *touch index.html (creates new file)
-    *open index.html (opens file)
-    *up/down arrows toggles through previous commands
-    *open . (opens current folder)
-    *mv index.html index2.html (rename index.html to inndex2.html)
-    *press tab to autocomplete
+    * ls  (see current directory)
+    * cd  (change directory) 
+    * cd . . (go up one directory)
+    * command+k (clears terminal)
+    * cd / (takes you to root directory)
+    * mkdir (make directory)
+    * rm directory_name (remove directory)
+    * rm -r directory_name (remove directory and everything in it)
+    * touch index.html (creates new file)
+    * open index.html (opens file)
+    * up/down arrows toggles through previous commands
+    * open . (opens current folder)
+    * mv index.html index2.html (rename index.html to inndex2.html)
+    * press tab to autocomplete
 
 
 ### Experiments
