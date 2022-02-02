@@ -59,12 +59,15 @@ https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/
     * mv index.html index2.html (rename index.html to inndex2.html)
     * press tab to autocomplete
 
-1. Command line activity: new commands to remember
+1. Command line activity in Learn Computing: new commands to remember
     * whoami (returns your name)
     * vim hello.txt (create & open text file in vim, press i to type and esc to delete, :wq to save and quit)
     * cat hello.txt (view contents of a file)
     * vim hello.py (create and open text file with py extension)
     * python hello.py (run python script)
+
+1. Documentation activity in Learn Computing
+    *
 
 The command line is much faster than clicking around in my directories. I'm excited to become more fluent in command line lingo.
 ### Experiments
