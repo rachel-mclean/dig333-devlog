@@ -28,11 +28,11 @@ It feels very vulnerable to share things that youâ€™ve made on the internet. Iâ€
 
 - Sanjay Sarma The Internet of Things: Roadmap to a Connected World (2016)
 
-1. 1 quote from the reading(s)
+    1. 1 quote from the reading(s)
 
-1. 1 related comment on the reading(s)
+    1. 1 related comment on the reading(s)
 
-1. 1 related follow-up question (what question does it bring up for you?)
+    1. 1 related follow-up question (what question does it bring up for you?)
 
 
 ### Experiments
