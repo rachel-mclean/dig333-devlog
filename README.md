@@ -66,10 +66,15 @@ https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/
     * vim hello.py (create and open text file with py extension)
     * python hello.py (run python script)
 
-1. Documentation activity in Learn Computing
-    *
-
 The command line is much faster than clicking around in my directories. I'm excited to become more fluent in command line lingo.
+
+1. Documentation activity in Learn Computing
+    * One of my biggest regrets is not properly documenting the projects I made in the Davidson in Silicon Valley program. I made a lot of cool stuff but I don't remember the commands to run them or how to access them. This activity emphasized the importance of iteration and shared some really cool resources for documentation. I'll be sure to carefully document what I've learned this semester.
+
+## Week 2
+
+### Context
+
 ### Experiments
 
 <!-- List each Platt experiment / Monk recipe outcome, adding notes, photos, schematics, captions to show your work. -->
