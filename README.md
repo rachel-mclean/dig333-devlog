@@ -43,7 +43,7 @@ https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/
 
     1. 1 related follow-up question (what question does it bring up for you?)  It's scary to think that functional household items (such as old-fashioned non-ioT thermostats) could become obsolete in exchange for internet-connected devices that might become quickly outdated as smart technology continues to evolve. My question is: Is it ok to sacrifice advanced technologicaly innovation for simple functionality? In other words, do you think there will there ever come a point when thermostat manufacters, for example, think to themselves, "Ok. We don't need a thermostat more advanced that this. We can stop here." Or is technological innovation too rooted in consumerism to come to this conclusion?
 
-    1. Basical Terminal Usage Video commands to remember:
+- Basical Terminal Usage Video commands to remember:
     * ls  (see current directory)
     * cd  (change directory) 
     * cd . . (go up one directory)
@@ -59,7 +59,7 @@ https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/
     * mv index.html index2.html (rename index.html to inndex2.html)
     * press tab to autocomplete
 
-    1. Command line activity in Learn Computing: new commands to remember
+- Command line activity in Learn Computing: new commands to remember
     * whoami (returns your name)
     * vim hello.txt (create & open text file in vim, press i to type and esc to delete, :wq to save and quit)
     * cat hello.txt (view contents of a file)
@@ -79,7 +79,6 @@ The command line is much faster than clicking around in my directories. I'm exci
 
 <!-- List each Platt experiment / Monk recipe outcome, adding notes, photos, schematics, captions to show your work. -->
 
-(don't have materials yet but read through the text)
 1. Platt, Taste the Power (pg. 7)
     1. Text, photos, etc.
     1. Describe the most important thing you learned (to share in class)
