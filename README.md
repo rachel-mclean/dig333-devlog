@@ -106,9 +106,10 @@ The command line is much faster than clicking around in my directories. I'm exci
         * <img src="https://user-images.githubusercontent.com/59896196/153246061-4741215d-f630-4641-a8a9-1bfe4f88fc36.jpg" width="300" height="400">
         * <img src="https://user-images.githubusercontent.com/59896196/153250635-2f35759b-3097-4cfd-8b0b-486ba1299047.jpg" width="450" height="300">
         * Resistors resist the flow of electricity.
-        *  The longer wire sticking out of an LED must receive a more positive voltage compared to the shorter wire.
-    1. The positive terminal should be on the right side of the battery, connected to the longest wire of the LED.
-    1. Write a quiz question (which we will discuss in class)
+        * The longer wire sticking out of an LED must receive a more positive voltage compared to the shorter wire.
+    1. The positive terminal should be on the right side of the battery, connected to the longest wire of the LED (so it receives a more positive voltage).
+    1. Quiz question: What is the limit for the current passing into the LED through the long wire?
+        * This limit is called the forward limit and is stated by the manufacturer. 
 
 1. Variable Resistance
     1. Text, photos, etc.
