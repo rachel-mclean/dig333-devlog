@@ -81,25 +81,27 @@ The command line is much faster than clicking around in my directories. I'm exci
 <!-- List each Platt experiment / Monk recipe outcome, adding notes, photos, schematics, captions to show your work. -->
 
 1. Platt, Taste the Power (pg. 7)
-    * <img src="https://user-images.githubusercontent.com/59896196/153240342-fb07eb44-49e7-417f-9f60-3123d09b158e.jpg" width="300" height="400">
-    * <img src="https://user-images.githubusercontent.com/59896196/153240377-a336c5c7-217b-47b2-9688-c6c3b07fdaf1.jpg" width="300" height="400">
-    * Wet tongue = lower resistence, dry tongue = higher resistance
-    * On a multimeter, the black lead goes with COM, and the red lead goes with V
-    * On a manual multimeter, you need to know what you're measuring so you can choose a range of values.
-    * When electricity travels through a shorter distance, it encounters less resistance (ohms), resulting in increased current (amps).
-    * Quiz question: How does wet skin effect the flow of electric current?
-    * Answer: Wet skin makes electricity encounter less resistance, so the flow of current increases.
+    1. Notes
+        * <img src="https://user-images.githubusercontent.com/59896196/153240342-fb07eb44-49e7-417f-9f60-3123d09b158e.jpg" width="300" height="400">
+        * <img src="https://user-images.githubusercontent.com/59896196/153240377-a336c5c7-217b-47b2-9688-c6c3b07fdaf1.jpg" width="300" height="400">
+        * Wet tongue = lower resistence, dry tongue = higher resistance
+        * On a multimeter, the black lead goes with COM, and the red lead goes with V
+        * On a manual multimeter, you need to know what you're measuring so you can choose a range of values.
+    1. When electricity travels through a shorter distance, it encounters less resistance (ohms), resulting in increased current (amps).
+    1. Quiz question: How does wet skin effect the flow of electric current?
+        * Answer: Wet skin makes electricity encounter less resistance, so the flow of current increases.
 
 1. Platt, Let's Abuse a Battery! (pg. 11)
-    *. Damaging batteries such as lithium batteries can be dangerous, so be careful.
-    * Voltage measures electrical pressure caused by a chemical reaction with electrons.
-    * Ohm's Law: Voltage = Current x Resistance (V = I x R)
-    * Current of electricity is measured in amps, pressure of electricity is measures in volts, resistance to flow measured in ohms.
-    * Water analogy of the relationship between electrical current, pressure, and resistance: "Resistance blocks pressure and reduces flow"
-    * Quiz question: what is the effect of a higher voltage on electrical current?
-    * Answer: A higher voltage overcomes resistance more easily and increases the current.
+    1. Notes
+        * Damaging batteries such as lithium batteries can be dangerous, so be careful.
+        * Voltage measures electrical pressure caused by a chemical reaction with electrons
+        * Current of electricity is measured in amps, pressure of electricity is measures in volts, resistance to flow measured in ohms.
+        * Water analogy of the relationship between electrical current, pressure, and resistance: "Resistance blocks pressure and reduces flow"
+    1. Ohm's Law: Voltage = Current x Resistance (V = I x R)
+    1. Quiz question: what is the effect of a higher voltage on electrical current?
+        * Answer: A higher voltage overcomes resistance more easily and increases the current.
 
-1. Your First Circuit 
+1. Your First Circuit (pg. 18)
     1. Text, photos, etc.
     1. Describe the most important thing you learned (to share in class)
     1. Write a quiz question (which we will discuss in class)
