@@ -81,8 +81,8 @@ The command line is much faster than clicking around in my directories. I'm exci
 <!-- List each Platt experiment / Monk recipe outcome, adding notes, photos, schematics, captions to show your work. -->
 
 1. Platt, Taste the Power (pg. 7)
-    *<img src="https://user-images.githubusercontent.com/59896196/153240342-fb07eb44-49e7-417f-9f60-3123d09b158e.jpg" width="300" height="400">
-     <img src="https://user-images.githubusercontent.com/59896196/153240377-a336c5c7-217b-47b2-9688-c6c3b07fdaf1.jpg" width="300" height="400">
+    * <img src="https://user-images.githubusercontent.com/59896196/153240342-fb07eb44-49e7-417f-9f60-3123d09b158e.jpg" width="300" height="400">
+    * <img src="https://user-images.githubusercontent.com/59896196/153240377-a336c5c7-217b-47b2-9688-c6c3b07fdaf1.jpg" width="300" height="400">
     * Wet tongue = lower resistence, dry tongue = higher resistance
     * On a multimeter, the black lead goes with COM, and the red lead goes with V
     * On a manual multimeter, you need to know what you're measuring so you can choose a range of values.
