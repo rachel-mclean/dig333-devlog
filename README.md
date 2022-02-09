@@ -87,10 +87,8 @@ The command line is much faster than clicking around in my directories. I'm exci
     * On a multimeter, the black lead goes with COM, and the red lead goes with V
     * On a manual multimeter, you need to know what you're measuring so you can choose a range of values.
     * When electricity travels through a shorter distance, it encounters less resistance (ohms), resulting in increased current (amps).
-
-Platt, Charles. Make: Electronics (p. 10). Make Community, LLC. Kindle Edition. 
-    5. Quiz question: How does wet skin effect the flow of electric current?
-    1. Answer: Wet skin makes electricity encounter less resistance, so the flow of current increases.
+    * Quiz question: How does wet skin effect the flow of electric current?
+    * Answer: Wet skin makes electricity encounter less resistance, so the flow of current increases.
 
 1. Platt, Let's Abuse a Battery!
     1. Text, photos, etc.
