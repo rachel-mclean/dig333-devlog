@@ -141,13 +141,51 @@ The command line is much faster than clicking around in my directories. I'm exci
 ### Context
 
 - THE CRITICAL ENGINEERING MANIFESTO
-    1. This manifesto describes a list of axioms that every engineer should examine. These statements seem to highlight the importance of critical thinking within the field of engineering. The statements examine how engineering transforms the world, how engineering threatens the world, how engineering impacts the people who use technology, and how engineering is inspired.  
+    1. Summarize the article(s) in 3-4 sentences: This manifesto describes a list of axioms that every engineer should examine. These statements seem to highlight the importance of critical thinking within the field of engineering. The statements examine how engineering transforms the world, how engineering threatens the world, how engineering impacts the people who use technology, and how engineering is inspired.  
  
-    1. "The Critical Engineer looks to the history of art, architecture, activism, philosophy and invention and finds exemplary works of Critical Engineering. Strategies, ideas and agendas from these disciplines will be adopted, re-purposed and deployed." This quote emphasizes how engineering is not disattached from the rest of the world. It intersects with multitudes of other field and is strengthened, beautified, and informed by other disciplines.
+    1. 1 quote from the reading(s): "The Critical Engineer looks to the history of art, architecture, activism, philosophy and invention and finds exemplary works of Critical Engineering. Strategies, ideas and agendas from these disciplines will be adopted, re-purposed and deployed." This quote emphasizes how engineering is not disattached from the rest of the world. It intersects with multitudes of other field and is strengthened, beautified, and informed by other disciplines.
 
-    1. I was interested to hear the way this manifesto framed technology within a dichotomy. The 1st statement characterizes "any technology depended upon" as both an aid and a threat. Similarly, in the 2nd statement I was surprised to hear that technological advancement challenges our technology literacy, a threat I had not yet considered. These statements encourage engineers to critically consider both the inner workings and the material effects of technology.
+    1. 1 related comment on the reading(s): I was interested to hear the way this manifesto framed technology within a dichotomy. The 1st statement characterizes "any technology depended upon" as both an aid and a threat. Similarly, in the 2nd statement I was surprised to hear that technological advancement challenges our technology literacy, a threat I had not yet considered. These statements encourage engineers to critically consider both the inner workings and the material effects of technology.
     
-    1. What do you think is meant by the last axiom — "The Critical Engineer considers the exploit to be the most desirable form of exposure." The word exploit usually has a negative connotation, but it seems to be framed positively in this statement. Perhaps the statement is suggesting that the sharing, borrowing, or even stealing of engineering/coding ideas is a necessary phenomenon? Would you go as far as to say that this phenomenon is desirable?
+    1. 1 related follow-up question (what question does it bring up for you?): What do you think is meant by the last axiom — "The Critical Engineer considers the exploit to be the most desirable form of exposure." The word exploit usually has a negative connotation, but it seems to be framed positively in this statement. Perhaps the statement is suggesting that the sharing, borrowing, or even stealing of engineering/coding ideas is a necessary phenomenon? Would you go as far as to say that this phenomenon is desirable?
+
+- Artist Profile: Julian Oliver
+    1. Summarize the article(s) in 3-4 sentences. Also include... 
+ 
+    1. 1 quote from the reading(s): "Our inability to describe and understand reduces our critical reach, leaving us both disempowered and, quite often, vulnerable." This quote clarified the 2nd manifesto statement for me, which says that each technological advancement challenges our techno-political literacy. I see now that techno-political literacy is related to our ability to describe what the technology is doing for us and how its infrastructure is set up. When we can't verbalize these things, we are vulnerable to being taken advantage of.
+
+    1. 1 related comment on the reading(s): Oliver makes a bold statement that Engineering, not Art, is the most transformative language of our time. I'm still not sure to what extent I agree with this, but I appreciate the perspective that Engineering is a language. I would maybe be more inclined to agree with the statement Engineering *is* Art, in some way?
+    
+    1. 1 related follow-up question (what question does it bring up for you?): Oliver uses the phrase, "Engendering a healthy paranoia." Do you think the Critical Engineering Manifesto is supporting a healthy paranoia? What would healthy paranoia look like, on a day-to-day basis?
+
+- Artist Profile: Video (cannot access yet)
+    1. Summarize the article(s) in 3-4 sentences. Also include... 
+ 
+    1. 1 quote from the reading(s): 
+
+    1. 1 related comment on the reading(s): 
+    
+    1. 1 related follow-up question (what question does it bring up for you?): 
+
+### Experiments
+
+1. Name of the experiment
+    1. Text, photos, etc.
+    1. Describe the most important thing you learned (to share in class)
+    1. Write a quiz question (which we will discuss in class)
+
+
+## Week 4
+
+### Context
+- Name of the article/reading
+    1. Summarize the article(s) in 3-4 sentences. Also include... 
+ 
+    1. 1 quote from the reading(s): 
+
+    1. 1 related comment on the reading(s): 
+    
+    1. 1 related follow-up question (what question does it bring up for you?): 
 
 ### Experiments
 1. Name of the experiment
