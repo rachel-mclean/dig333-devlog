@@ -114,8 +114,18 @@ The command line is much faster than clicking around in my directories. I'm exci
 1. Variable Resistance (pg. 21)
     1. Notes
         * <img src="https://user-images.githubusercontent.com/59896196/153252798-3b995276-2cb7-4e93-b84d-66bf592d297c.jpg" width="450" height="300">
-    3. Describe the most important thing you learned (to share in class)
-    4. Write a quiz question (which we will discuss in class)
+        * Petentiometers help control current.
+        * A potentiometer has no polarity (when you switch the red and black probes' positions against the potentiometer, the resistance measured on a multimeter stays the same — it does not switch from negative to positive or positive to negative.)
+        * You can turn the shaft of a potentiometer clockwise to control the brightness of your LED.
+        * Potential difference = voltage between two points.
+        * You can check voltage across parts of a circuit by touching the black and red probes to different parts of the circuit.
+        * To measure current in a circuit, you need to insert your multimeter into the circuit itself.
+        * Ohm's Law: volts = amps x ohms
+            * I = V / R
+            * R = V / I
+    1. The current is the same at all points in the circuit, while the sum of the potential differences across the different parts of the circuit should add to the voltage of the battery.
+    4. Quiz question: If the potentiometer has a lower resistance, what happens to the total resistance in the circuit?
+        * Answer: The total resistance in the circuit is also lower, and more current can flow.
 
 1. Let's Make a Battery
     1. Text, photos, etc.
