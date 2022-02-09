@@ -141,11 +141,11 @@ The command line is much faster than clicking around in my directories. I'm exci
 ### Context
 
 - THE CRITICAL ENGINEERING MANIFESTO
-    1. Summarize the article(s) in 3-4 sentences. Also include...
+    1. This manifesto describes a list of axioms that every engineer should examine. These statements seem to highlight the importance of critical thinking within the field of engineering. The statements examine how engineering transforms the world, how engineering threatens the world, how engineering impacts the people who use technology, and how engineering is inspired.  
  
     1. "The Critical Engineer looks to the history of art, architecture, activism, philosophy and invention and finds exemplary works of Critical Engineering. Strategies, ideas and agendas from these disciplines will be adopted, re-purposed and deployed." This quote emphasizes how engineering is not disattached from the rest of the world. It intersects with multitudes of other field and is strengthened, beautified, and informed by other disciplines.
 
-    1. 1 related comment on the reading(s)
+    1. I was interested to hear the way this manifesto framed technology within a dichotomy. The 1st statement characterizes "any technology depended upon" as both an aid and a threat. Similarly, in the 2nd statement I was surprised to hear that technological advancement challenges our technology literacy, a threat I had not yet considered. These statements encourage engineers to critically consider both the inner workings and the material effects of technology.
     
     1. What do you think is meant by the last axiom — "The Critical Engineer considers the exploit to be the most desirable form of exposure." The word exploit usually has a negative connotation, but it seems to be framed positively in this statement. Perhaps the statement is suggesting that the sharing, borrowing, or even stealing of engineering/coding ideas is a necessary phenomenon? Would you go as far as to say that this phenomenon is desirable?
 
