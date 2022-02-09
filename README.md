@@ -104,9 +104,10 @@ The command line is much faster than clicking around in my directories. I'm exci
 1. Your First Circuit (pg. 18)
     1. Notes
         * <img src="https://user-images.githubusercontent.com/59896196/153246061-4741215d-f630-4641-a8a9-1bfe4f88fc36.jpg" width="300" height="400">
+        * Resistors resist the flow of electricity.
         *  The longer wire sticking out of an LED must receive a more positive voltage compared to the shorter wire.
-    3. Describe the most important thing you learned (to share in class)
-    4. Write a quiz question (which we will discuss in class)
+    1. The positive terminal should be on the right side of the battery, connected to the longest wire of the LED.
+    1. Write a quiz question (which we will discuss in class)
 
 1. Variable Resistance
     1. Text, photos, etc.
