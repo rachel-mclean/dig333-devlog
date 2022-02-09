@@ -111,10 +111,11 @@ The command line is much faster than clicking around in my directories. I'm exci
     1. Quiz question: What is the limit for the current passing into the LED through the long wire?
         * This limit is called the forward limit and is stated by the manufacturer. 
 
-1. Variable Resistance
-    1. Text, photos, etc.
-    1. Describe the most important thing you learned (to share in class)
-    1. Write a quiz question (which we will discuss in class)
+1. Variable Resistance (pg. 21)
+    1. Notes
+        * <img src="https://user-images.githubusercontent.com/59896196/153252798-3b995276-2cb7-4e93-b84d-66bf592d297c.jpg" width="450" height="300">
+    3. Describe the most important thing you learned (to share in class)
+    4. Write a quiz question (which we will discuss in class)
 
 1. Let's Make a Battery
     1. Text, photos, etc.
