@@ -90,7 +90,7 @@ The command line is much faster than clicking around in my directories. I'm exci
     * Quiz question: How does wet skin effect the flow of electric current?
     * Answer: Wet skin makes electricity encounter less resistance, so the flow of current increases.
 
-1. Platt, Let's Abuse a Battery!
+1. Platt, Let's Abuse a Battery! (pg. 11)
     1. Text, photos, etc.
     1. Describe the most important thing you learned (to share in class)
     1. Write a quiz question (which we will discuss in class)
