@@ -154,7 +154,7 @@ The command line is much faster than clicking around in my directories. I'm exci
     1. 1 related follow-up question (what question does it bring up for you?): What do you think is meant by the last axiom — "The Critical Engineer considers the exploit to be the most desirable form of exposure." The word exploit usually has a negative connotation, but it seems to be framed positively in this statement. Perhaps the statement is suggesting that the sharing, borrowing, or even stealing of engineering/coding ideas is a necessary phenomenon? Would you go as far as to say that this phenomenon is desirable?
 
 - Artist Profile: Julian Oliver
-    1. Summarize the article(s) in 3-4 sentences. Also include... 
+    1. Summarize the article(s) in 3-4 sentences: This reading was an interview-style article with Julian Oliver, one author of the Critical Engineering Manifesto. He claims that engineering is integral to all of our human behaviors. He also critiques the lack of transparency in the infrastructure of many technological advancements, and the impact of these obscurities.
  
     1. 1 quote from the reading(s): "Our inability to describe and understand reduces our critical reach, leaving us both disempowered and, quite often, vulnerable." This quote clarified the 2nd manifesto statement for me, which says that each technological advancement challenges our techno-political literacy. I see now that techno-political literacy is related to our ability to describe what the technology is doing for us and how its infrastructure is set up. When we can't verbalize these things, we are vulnerable to being taken advantage of.
 
