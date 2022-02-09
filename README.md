@@ -91,9 +91,13 @@ The command line is much faster than clicking around in my directories. I'm exci
     * Answer: Wet skin makes electricity encounter less resistance, so the flow of current increases.
 
 1. Platt, Let's Abuse a Battery! (pg. 11)
-    1. Text, photos, etc.
-    1. Describe the most important thing you learned (to share in class)
-    1. Write a quiz question (which we will discuss in class)
+    *. Damaging batteries such as lithium batteries can be dangerous, so be careful.
+    * Voltage measures electrical pressure caused by a chemical reaction with electrons.
+    * Ohm's Law: Voltage = Current x Resistance (V = I x R)
+    * Current of electricity is measured in amps, pressure of electricity is measures in volts, resistance to flow measured in ohms.
+    * Water analogy of the relationship between electrical current, pressure, and resistance: "Resistance blocks pressure and reduces flow"
+    * Quiz question: what is the effect of a higher voltage on electrical current?
+    * Answer: A higher voltage overcomes resistance more easily and increases the current.
 
 1. Your First Circuit 
     1. Text, photos, etc.
