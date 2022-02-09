@@ -82,10 +82,8 @@ The command line is much faster than clicking around in my directories. I'm exci
 
 1. Platt, Taste the Power (pg. 7)
     1. 1st photo with a wet tongue, 2nd photo with a dry tongue
-    1. ![20220209_105444](https://user-images.githubusercontent.com/59896196/153240342-fb07eb44-49e7-417f-9f60-3123d09b158e.jpg)
-    1. <img src="https://user-images.githubusercontent.com/59896196/153240342-fb07eb44-49e7-417f-9f60-3123d09b158e.jpg" width="100" height="100">
-![20220209_105456](https://user-images.githubusercontent.com/59896196/153240377-a336c5c7-217b-47b2-9688-c6c3b07fdaf1.jpg)
-<img src="https://user-images.githubusercontent.com/59896196/153240377-a336c5c7-217b-47b2-9688-c6c3b07fdaf1.jpg" width="100" height="100">
+    1. <img src="https://user-images.githubusercontent.com/59896196/153240342-fb07eb44-49e7-417f-9f60-3123d09b158e.jpg" width="300" height="400">
+<img src="https://user-images.githubusercontent.com/59896196/153240377-a336c5c7-217b-47b2-9688-c6c3b07fdaf1.jpg" width="300" height="400">
     1. Wet tongue = lower resistence, dry tongue = higher resistance
     1. On a multimeter, the black lead goes with COM, and the red lead goes with V
     1. On a manual multimeter, you need to know what you're measuring so you can choose a range of values.
