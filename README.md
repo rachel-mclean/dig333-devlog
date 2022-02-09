@@ -66,15 +66,15 @@ The command line is much faster than clicking around in my directories. I'm exci
 
     1. 1 related comment on the reading: The quote above reminded me of an article I read by mathematician Federico Ardila–Mantilla  https://arxiv.org/pdf/1912.10007.pdf . His research is concerned with determining algorithms for the optimal movement of a robot arm in a CAT(0) cubical complex. He brought up one major question: what does it mean to do math ethically? After hearing about how a police officer killed someone using a robot during a protest, he became concerned with how his robot work was being applied. From this article, I was reminded that our research & creations are not disattached from the rest of the world. Our creations can be manipulated to benefit certain groups of people, while harmings others. It's not enough to be well-intentioned; we must also be knowledgeable about the power that our technology can wield in the world. The Sarma article suggests that it is increasingly chaotic to build iOT devices that lack architectural continuity and standards of communnication. To expand upon that, I believe it is not only chaotic, but also possibly dangerous. I think it is an essential part of the creation process to consider the ethics that surround an ioT device's (potentially unexpected) applications.
 
-    1. 1 related follow-up question (what question does it bring up for you?) The article suggests three best practices for "controlling the chaos." My question is: Besides controlling the "architectural" chaos, how can we control the "ethical" or "moral" chaos? What does it mean to "do" technology ethically?
+    1. 1 related follow-up question (what question does it bring up for you?): The article suggests three best practices for "controlling the chaos." My question is: Besides controlling the "architectural" chaos, how can we control the "ethical" or "moral" chaos? What does it mean to "do" technology ethically?
 
 - The Internet of Things has a dirty little secret: it's not really yours (2016)
     
-    1. 1 quote from the reading(s) "Not only are the customers buying smart devices cluelessly roped in, if you ask the companies behind the devices you’ll almost always get a vague pipe dream that doesn’t match the reality of connecting your home’s most crucial devices." The creation of countless random ioT devices seems very profit-driven. It's hard for me to tell what products might actual solve a problem in my life, and what products are a simple money-grab. 
+    1. 1 quote from the reading(s): "Not only are the customers buying smart devices cluelessly roped in, if you ask the companies behind the devices you’ll almost always get a vague pipe dream that doesn’t match the reality of connecting your home’s most crucial devices." The creation of countless random ioT devices seems very profit-driven. It's hard for me to tell what products might actual solve a problem in my life, and what products are a simple money-grab. 
 
-    1. 1 related comment on the reading(s) The article seems to suggest a pervading solutionism mindset. A lot of the ioT devices described in this article (such as smart trash cans and umbrellas) assume that a problem exists, assume that the problem behaves in a certain way, and assume a best solution. This process neglects to carefully investigate the subtleties of the problem to understand its best solution — if a problem even exists in the first place. This has the potential to create more unexpected problems.
+    1. 1 related comment on the reading(s): The article seems to suggest a pervading solutionism mindset. A lot of the ioT devices described in this article (such as smart trash cans and umbrellas) assume that a problem exists, assume that the problem behaves in a certain way, and assume a best solution. This process neglects to carefully investigate the subtleties of the problem to understand its best solution — if a problem even exists in the first place. This has the potential to create more unexpected problems.
 
-    1. 1 related follow-up question (what question does it bring up for you?)  It's scary to think that functional household items (such as old-fashioned non-ioT thermostats) could become obsolete in exchange for internet-connected devices that might become quickly outdated as smart technology continues to evolve. My question is: Is it ok to sacrifice advanced technologicaly innovation for simple functionality? In other words, do you think there will there ever come a point when thermostat manufacters, for example, think to themselves, "Ok. We don't need a thermostat more advanced that this. We can stop here." Or is technological innovation too rooted in consumerism to come to this conclusion?
+    1. 1 related follow-up question (what question does it bring up for you?):  It's scary to think that functional household items (such as old-fashioned non-ioT thermostats) could become obsolete in exchange for internet-connected devices that might become quickly outdated as smart technology continues to evolve. My question is: Is it ok to sacrifice advanced technologicaly innovation for simple functionality? In other words, do you think there will there ever come a point when thermostat manufacters, for example, think to themselves, "Ok. We don't need a thermostat more advanced that this. We can stop here." Or is technological innovation too rooted in consumerism to come to this conclusion?
 
 ### Experiments
 
@@ -135,3 +135,22 @@ The command line is much faster than clicking around in my directories. I'm exci
     1. Two batteries in series deliver twice the voltage, while two batteries in parallel deliver either "the same current for twice as long or twice the current for the same amount of time."
     1. If resistance in a circuit remains the same, how will increased voltage effect current?
         * Since I = V / R, increasing voltage increases current (amperage).
+
+## Week 3
+
+### Context
+
+- THE CRITICAL ENGINEERING MANIFESTO
+    1. Summarize the article(s) in 3-4 sentences. Also include...
+ 
+    1. "The Critical Engineer looks to the history of art, architecture, activism, philosophy and invention and finds exemplary works of Critical Engineering. Strategies, ideas and agendas from these disciplines will be adopted, re-purposed and deployed." This quote emphasizes how engineering is not disattached from the rest of the world. It intersects with multitudes of other field and is strengthened, beautified, and informed by other disciplines.
+
+    1. 1 related comment on the reading(s)
+    
+    1. What do you think is meant by the last axiom — "The Critical Engineer considers the exploit to be the most desirable form of exposure." The word exploit usually has a negative connotation, but it seems to be framed positively in this statement. Perhaps the statement is suggesting that the sharing, borrowing, or even stealing of engineering/coding ideas is a necessary phenomenon? Would you go as far as to say that this phenomenon is desirable?
+
+### Experiments
+1. Name of the experiment
+    1. Text, photos, etc.
+    1. Describe the most important thing you learned (to share in class)
+    1. Write a quiz question (which we will discuss in class)
