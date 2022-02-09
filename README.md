@@ -128,6 +128,10 @@ The command line is much faster than clicking around in my directories. I'm exci
         * Answer: The total resistance in the circuit is also lower, and more current can flow.
 
 1. Let's Make a Battery
-    1. Text, photos, etc.
-    1. Describe the most important thing you learned (to share in class)
-    1. Write a quiz question (which we will discuss in class)
+    1. Notes
+        * watts = volts x amps
+        * V = W / I
+        * I = W / V
+    1. Two batteries in series deliver twice the voltage, while two batteries in parallel deliver either "the same current for twice as long or twice the current for the same amount of time."
+    1. If resistance in a circuit remains the same, how will increased voltage effect current?
+        * Since I = V / R, increasing voltage increases current (amperage).
