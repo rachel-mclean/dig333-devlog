@@ -188,18 +188,19 @@ The command line is much faster than clicking around in my directories. I'm exci
     1. 1 quote from the reading(s): "The word froze all four of them. Chicago, the settlement that had collapsed! ... Sooner or later, what had happened to the Chicago settlement would happen to them all." This quote stood out to me because I'm from Chicago. The suggestion of Chicago falling into a state of dystopian collapse hit home more than the other descriptions. With the onset of climate change and irreversiible environmental damage, I wonder how far off this future is. Or, as the story more directly suggests, human reliance or exploitation of technology could also bring about this future.
     
 
-    1. As I began reading this, I was a little disoriented. The state of the world was implied instead of outwardly explained. As I adjusted to the meaning of "Biltong", "settlement", "print", etc, I began to enjoy the story. The dystopian qualities of this world hit the reader in the face. Every sentence is filled with dreary descriptions of a frighteningly abysmal reality. It seems that this reality was brought upon by human dependency on the Biltong to produce all resources. This story suggests that human dependency on technology could end badly, and that 
+    1. As I began reading this, I was a little disoriented. The state of the world was implied instead of outwardly explained. As I adjusted to the meaning of "Biltong", "settlement", "print", etc, I began to enjoy the story. The dystopian qualities of this world hit the reader in the face. Every sentence is filled with dreary descriptions of a frighteningly abysmal reality. It seems that this reality was brought upon by human dependency on the Biltong to produce all resources. This story suggests that human dependency on technology could end very badly.
     
     1. 1 related follow-up question (what question does it bring up for you?): Another quote from the reading(s): "You made this knife?" Fergesson asked, dazed. "I can't believe it. Where do you start? You have to have tools to make this. It's a paradox!" His voice rose with hysteria. "It isn't possible!" Fergesson's hysteria is very ominous. It suggests that humans lost their craftmanship and the ability to create their own tools. It brings up the question — how can we balance technological advancement with the maintanence of own our craftmanshp/skillset? Like languages, it seems that certain skills would become obselete and unknowable once technology replaces them. Can we create technological advances without causing a multi-generational regression our own human capabilities?
 
-- Name of the article/reading
-    1. Summarize the article(s) in 3-4 sentences. Also include... 
+- The Preserving Machine
+    1. Summarize the article(s) in 3-4 sentences. Dan Labyrinth envisions a world without music and frets about how terrible that reality would be. He comes up with the idea of applying a survival instinct to musical scores, so that they can preserve themselves. Labyrinth is surprised at the variety of animal-like creatures that embody each score, and weary of the unexpected transformations they undergo to adapt to the wilderness. When the musical scores totally change
  
-    1. 1 quote from the reading(s): 
+    1. 1 quote from the reading(s): "Music is the most perishable of things, fragile and delicate, easily destroyed." In the pursuit of advancing technology, other valuable assets can become obselete and our literacy in previously accessible skills can become weakened. It isn't crazy to think that one day music might be lost. The preservation technique used in this story doesn't work — in fact, the very essence of what is being preserved becomes unrecognizeable due to humankind's interferance with the natural order of survival. This suggests that human-built advanced technology might have unexpected consequences or could cause unexpected transformations, and might not be the best route for preserving things.
 
-    1. 1 related comment on the reading(s): 
+    1. 1 related comment on the reading(s): The narrator seems to have an optimistic view about technology's ability to solve Labyrinth's music preservation dilemma, despite Labyrinth's concerns. He says, "Even though this method failed,
+some other may work; something that we can't foresee or predict now may come along, some day." I think a balance of optimism and skepticism about technology is healthy and allows us to think critically about how technology operates and impacts the world.
     
-    1. 1 related follow-up question (what question does it bring up for you?): 
+    1. 1 related follow-up question (what question does it bring up for you?): In light of the story's outcome, what preservation method is best to preserve things we don't want to lose? Labyrinth concludes, "Perhaps nothing can be done, then, to save those manners and morals." Is it best to succomb to the reality that all might be lost someday?
 
 ### Experiments
 1. Name of the experiment
