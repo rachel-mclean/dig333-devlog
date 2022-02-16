@@ -201,6 +201,15 @@ The command line is much faster than clicking around in my directories. I'm exci
 some other may work; something that we can't foresee or predict now may come along, some day." I think a balance of optimism and skepticism about technology is healthy and allows us to think critically about how technology operates and impacts the world.
     
     1. 1 related follow-up question (what question does it bring up for you?): In light of the story's outcome, what preservation method is best to preserve things we don't want to lose? Labyrinth concludes, "Perhaps nothing can be done, then, to save those manners and morals." Is it best to succomb to the reality that all might be lost someday?
+    
+- Adam Curtis, All Watched Over by Machines of Loving Grace, Part 2
+    1. Summarize the article(s): This audio talks about systems: their ability to reach equilibrium, how systems operate, and how the behavior of systems might be replicated by computers and machines. Ultimately, the audio concludes that "the ultimate equilibrium" and "the balance of nature" is an illusion. Instead, we live in a dynamic world.
+ 
+    1. 1 quote from the reading(s): "Every action we take has consequences that feed through the system and return to shape our future behavior in ways we cannot see. But the computers could. [Computers] have the power to analyze the true consequences of human actions, feedback loops." The word system is used quite a bit in this audio and seems to vaguely suggest a mechanism used to maintain order. The word "system" takes on an ominous quality. I don't think we want computer systems to be able to fully and powerfully anayze the consequences of human actions in pursuit of a mythic equilibrium.
+
+    1. 1 related comment on the reading(s): Humans often believe in the myth that systems tend toward equlibrium and will always try to regulate and stabilize themselves through a natural machine called the "ecosystem." Equilibrium is often emphasized as the most desirable state of being. When talking about illusionary equilibriums and balances of nature, we must ask ourselves *who* determines where the equilibrium and state of balance is. For example, in systems that perpetuate racism and believe in white supremacy, the hegemonic definition of equilibrium might harm people of color and is not, in fact, a true equilibrium.
+    
+    1. 1 related follow-up question (what question does it bring up for you?): In the introduction, this audio asks if old hierarchies of power (such as governments, economies, and natural ecosystems) can by replaced by self-organizing networks. Humans dream of the self-organizing systems and fantasy machines that naturally attain their own state of equilibrium without interference. How is this phenomenon visible (or in-visible) in "Pay for the Printer" and "The Preserving Machine"?
 
 ### Experiments
 1. Name of the experiment
@@ -214,11 +223,11 @@ some other may work; something that we can't foresee or predict now may come alo
 - Name of the article/reading
     1. Summarize the article(s) in 3-4 sentences. Also include... 
  
-    1. 1 quote from the reading(s): 
+    1. 1 quote from the reading(s):
 
     1. 1 related comment on the reading(s): 
     
-    1. 1 related follow-up question (what question does it bring up for you?): 
+    1. 1 related follow-up question (what question does it bring up for you?):
 
 ### Experiments
 1. Name of the experiment
