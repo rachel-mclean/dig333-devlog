@@ -182,6 +182,34 @@ The command line is much faster than clicking around in my directories. I'm exci
 ## Week 4
 
 ### Context
+- Pay for the Printer by Philip Dick
+    1. Summarize the article(s) in 3-4 sentences. This story describes the state of a dystopian world after an alien race called the Biltong begin to weak, after being relied upon too heavilty by the human race to produce or "print" human artifacts. The world is characterized as being in a state of decay, and the Biltong can no longer reproduce or "spawn." The humans in the story are surprised to learn that people are still capable of creating things.
+ 
+    1. 1 quote from the reading(s): "The word froze all four of them. Chicago, the settlement that had collapsed! ... Sooner or later, what had happened to the Chicago settlement would happen to them all." This quote stood out to me because I'm from Chicago. The suggestion of Chicago falling into a state of dystopian collapse hit home more than the other descriptions. With the onset of climate change and irreversiible environmental damage, I wonder how far off this future is. Or, as the story more directly suggests, human reliance or exploitation of technology could also bring about this future.
+    
+
+    1. As I began reading this, I was a little disoriented. The state of the world was implied instead of outwardly explained. As I adjusted to the meaning of "Biltong", "settlement", "print", etc, I began to enjoy the story. The dystopian qualities of this world hit the reader in the face. Every sentence is filled with dreary descriptions of a frighteningly abysmal reality. It seems that this reality was brought upon by human dependency on the Biltong to produce all resources. This story suggests that human dependency on technology could end badly, and that 
+    
+    1. 1 related follow-up question (what question does it bring up for you?): Another quote from the reading(s): "You made this knife?" Fergesson asked, dazed. "I can't believe it. Where do you start? You have to have tools to make this. It's a paradox!" His voice rose with hysteria. "It isn't possible!" Fergesson's hysteria is very ominous. It suggests that humans lost their craftmanship and the ability to create their own tools. It brings up the question — how can we balance technological advancement with the maintanence of own our craftmanshp/skillset? Like languages, it seems that certain skills would become obselete and unknowable once technology replaces them. Can we create technological advances without causing a multi-generational regression our own human capabilities?
+
+- Name of the article/reading
+    1. Summarize the article(s) in 3-4 sentences. Also include... 
+ 
+    1. 1 quote from the reading(s): 
+
+    1. 1 related comment on the reading(s): 
+    
+    1. 1 related follow-up question (what question does it bring up for you?): 
+
+### Experiments
+1. Name of the experiment
+    1. Text, photos, etc.
+    1. Describe the most important thing you learned (to share in class)
+    1. Write a quiz question (which we will discuss in class)
+
+## Week 5
+
+### Context
 - Name of the article/reading
     1. Summarize the article(s) in 3-4 sentences. Also include... 
  
