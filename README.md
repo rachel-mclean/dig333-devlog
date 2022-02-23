@@ -177,6 +177,17 @@ The command line is much faster than clicking around in my directories. I'm exci
     1. Notes
         * "Switching" means using one flow of electricity to control another. This is done with transistors.
         * Relays have polarity, meaning it matters which direction current flows through.
+        * The potruding circle with the smaller diameter on a 9V battery is the more positive side.
+        * You have to maintain pressure on the pushbuttons to keep the light on.
+        * The sideways wifi symbol on a meter represents "continuity".
+        * When measuring continuity on a switch, the meter will beep or visually indicate if it finds a connection, and will do nothing if it doesn’t.
+        * On a schematic, zigzags represent resistors, 2 diagonal arrows represents light-emitting LED lights, 2 parallel lines of different lengths represents a battery, the large arrow represents the conventional current (the imaginary flow that runs from positive to negative).
+        * The two schematics below represent the same circuit:
+        * <img src="https://user-images.githubusercontent.com/59896196/155405593-de2e0f4c-7849-42b8-bf25-7cff64902044.png" width="450" height="300">
+        * <img src="https://user-images.githubusercontent.com/59896196/155405671-2f18af6b-00e9-48c0-9a37-b43bd8d60a5c.png" width="450" height="300">
+
+
+Platt, Charles. Make: Electronics (p. 55). Make Community, LLC. Kindle Edition. 
     1. Describe the most important thing you learned (to share in class)
     1. Write a quiz question (which we will discuss in class)
 
