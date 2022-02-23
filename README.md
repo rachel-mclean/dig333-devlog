@@ -229,14 +229,14 @@ some other may work; something that we can't foresee or predict now may come alo
     
     1. 1 related follow-up question (what question does it bring up for you?): How can we break the cycle of demand fueling unethical working conditions in the supply chain? It seems to hard to pinpoint specific, actionable ways to bring about change that aren't vague or unspecific suggestions about supporting workers' rights. 
   
- - Name of the article/reading
-    1. Summarize the article(s) in 3-4 sentences. Also include... 
+ - One Man's Nearly Impossible Quest to Make a Toaster From Scratch, 2011
+    1. Summarize the article(s) in 3-4 sentences: Thomas Thwaites embarked on the journey of creating a toaster from scratch, starting with the procurement of raw earth materials. The article emphasized the lack of knowledge about the distance that exists between the item that arrives at a consumer's doorstep and the complex processes required to produce the item.
  
-    1. 1 quote from the reading(s):
+    1. 1 quote from the reading(s): “He was able to boil down, he says, "the massive industrial activity devoted to making objects which enable us, the consumer, to toast bread more efficiently." This "massive industrial activity" comes at the cost of individual human knowledge and literacy in being able to create simple devices. Is this phenomenon combattable or are we destined to doom ourselves by saturating the world with unknoweable devices??
 
-    1. 1 related comment on the reading(s): 
+    1. 1 related comment on the reading(s): This article made me appreciate things like woodworking, glassblowing, and blacksmithing. These are processes that use (usually) only one or two raw materials to create a useful item or work of art. If we went into an apocalypse and industry fell apart, these skills would become almost sacred. Woodworking, glassblowing, blacksmithing, weaving, etc seem like they provided the original blueprint to engineering.
     
-    1. 1 related follow-up question (what question does it bring up for you?):
+    1. 1 related follow-up question (what question does it bring up for you?): How can we help communities that are vulnerable to being exploited by the supply and demand chain?
 
  - Name of the article/reading
     1. Summarize the article(s) in 3-4 sentences. Also include... 
