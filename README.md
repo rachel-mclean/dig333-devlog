@@ -84,7 +84,7 @@ The command line is much faster than clicking around in my directories. I'm exci
 
 <!-- List each Platt experiment / Monk recipe outcome, adding notes, photos, schematics, captions to show your work. -->
 
-1. Platt, Taste the Power (pg. 7)
+1. Platt, Experiment 1: Taste the Power (pg. 7)
     1. Notes
         * <img src="https://user-images.githubusercontent.com/59896196/153240342-fb07eb44-49e7-417f-9f60-3123d09b158e.jpg" width="300" height="400">
         * <img src="https://user-images.githubusercontent.com/59896196/153240377-a336c5c7-217b-47b2-9688-c6c3b07fdaf1.jpg" width="300" height="400">
@@ -95,7 +95,7 @@ The command line is much faster than clicking around in my directories. I'm exci
     1. Quiz question: How does wet skin effect the flow of electric current?
         * Answer: Wet skin makes electricity encounter less resistance, so the flow of current increases.
 
-1. Platt, Let's Abuse a Battery! (pg. 11)
+1. Platt, Experiment 2: Let's Abuse a Battery! (pg. 11)
     1. Notes
         * Damaging batteries such as lithium batteries can be dangerous, so be careful.
         * Voltage measures electrical pressure caused by a chemical reaction with electrons
@@ -105,7 +105,7 @@ The command line is much faster than clicking around in my directories. I'm exci
     1. Quiz question: what is the effect of a higher voltage on electrical current?
         * Answer: A higher voltage overcomes resistance more easily and increases the current.
 
-1. Your First Circuit (pg. 18)
+1. Platt, Experiment 3: Your First Circuit (pg. 18)
     1. Notes
         * <img src="https://user-images.githubusercontent.com/59896196/153246061-4741215d-f630-4641-a8a9-1bfe4f88fc36.jpg" width="300" height="400">
         * <img src="https://user-images.githubusercontent.com/59896196/153250635-2f35759b-3097-4cfd-8b0b-486ba1299047.jpg" width="450" height="300">
@@ -115,7 +115,7 @@ The command line is much faster than clicking around in my directories. I'm exci
     1. Quiz question: What is the limit for the current passing into the LED through the long wire?
         * This limit is called the forward limit and is stated by the manufacturer. 
 
-1. Variable Resistance (pg. 21)
+1. Platt, Experiment 4: Variable Resistance (pg. 21)
     1. Notes
         * <img src="https://user-images.githubusercontent.com/59896196/153252798-3b995276-2cb7-4e93-b84d-66bf592d297c.jpg" width="450" height="300">
         * Petentiometers help control current.
@@ -131,7 +131,7 @@ The command line is much faster than clicking around in my directories. I'm exci
     4. Quiz question: If the potentiometer has a lower resistance, what happens to the total resistance in the circuit?
         * Answer: The total resistance in the circuit is also lower, and more current can flow.
 
-1. Let's Make a Battery
+1. Platt, Experiment 5: Let's Make a Battery
     1. Notes
         * watts = volts x amps
         * V = W / I
@@ -172,8 +172,28 @@ The command line is much faster than clicking around in my directories. I'm exci
     1. 1 related follow-up question (what question does it bring up for you?): 
 
 ### Experiments
+ 
+1. Platt, Experiment 6: Very Simple Switching (pg. 50)
+    1. Text, photos, etc.
+    1. Describe the most important thing you learned (to share in class)
+    1. Write a quiz question (which we will discuss in class)
 
-1. Name of the experiment
+1. Platt, Experiment 7: Investigating a Relay (pg. 59)
+    1. Text, photos, etc.
+    1. Describe the most important thing you learned (to share in class)
+    1. Write a quiz question (which we will discuss in class)
+ 
+1. Platt, Experiment 8: A Relay Oscillator (pg. 65)
+    1. Text, photos, etc.
+    1. Describe the most important thing you learned (to share in class)
+    1. Write a quiz question (which we will discuss in class)
+
+1. Platt, Experiment 9: Time and Capacitators (pg. 74)
+    1. Text, photos, etc.
+    1. Describe the most important thing you learned (to share in class)
+    1. Write a quiz question (which we will discuss in class)
+
+1. Platt, Experiment 10: Transistor Switching (pg. 84)
     1. Text, photos, etc.
     1. Describe the most important thing you learned (to share in class)
     1. Write a quiz question (which we will discuss in class)
@@ -238,14 +258,17 @@ some other may work; something that we can't foresee or predict now may come alo
     
     1. 1 related follow-up question (what question does it bring up for you?): How can we help communities that are vulnerable to being exploited by the supply and demand chain?
 
- - Name of the article/reading
-    1. Summarize the article(s) in 3-4 sentences. Also include... 
- 
-    1. 1 quote from the reading(s):
+ - The Monkey in the Machine and the Machine in the Monkey (All Watched Over by Machines of Loving Grace, Part 3)
 
-    1. 1 related comment on the reading(s): 
+    1. Summarize the article(s) in 3-4 sentences. This audio discussed the historical legacy that accompanies the mining of raw minerals. Specifically, the audio talked about the conflict surrounding mining valuable raw minerals for computers and cell phones in Congo, and how Western mining companies remained intact while Congo experience devestating tragedy. Also, Prince and Hamilton had some insane eugenic-like philosophies that characterized the human race as computers.
+
+ 
+    1. 1 quote from the reading(s): The conclusion struck me: “We have embraced a fatalistic philosophy of us as helpless computing machines to both excuse and explain our political failure to change the world.” I think this is a call to action to stop comparing ourselves to computers and to view our behavior more critically. Based on the eugenic-like philosophies purported by Hamilton, it's clear that viewing the human race as self-replicating machines has dangerous consequences that would forward white supremacy.
+
+
+    1. 1 related comment on the reading(s): I was really sad and shocked to hear that the Congo conflict was brought about by fabricated Belgium claims. I liked how this audio connected the conversation around self-sufficient computers with colonialism and racism. It's important to remember that Western mining activity  is completely rooted in colonialism and racism. 
     
-    1. 1 related follow-up question (what question does it bring up for you?):
+    1. 1 related follow-up question (what question does it bring up for you?): How can the human race distance itself from the "fatalistic philosophy of us as helpless computing machines"?
 
 ### Experiments
 1. Name of the experiment
