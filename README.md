@@ -173,8 +173,10 @@ The command line is much faster than clicking around in my directories. I'm exci
 
 ### Experiments
  
-1. Platt, Experiment 6: Very Simple Switching (pg. 50)
-    1. Text, photos, etc.
+1. Platt, Experiment 6: Very Simple Switching (pg. 50) — This experiment will acquaint you with the function of manually operated switches.
+    1. Notes
+        * "Switching" means using one flow of electricity to control another. This is done with transistors.
+        * Relays have polarity, meaning it matters which direction current flows through.
     1. Describe the most important thing you learned (to share in class)
     1. Write a quiz question (which we will discuss in class)
 
