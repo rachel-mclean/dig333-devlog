@@ -220,6 +220,42 @@ some other may work; something that we can't foresee or predict now may come alo
 ## Week 5
 
 ### Context
+- Brian Merchant, Everything That’s Inside Your iPhone, Motherboard (2017) 
+    1. Summarize the article(s) in 3-4 sentences: Merchant provides a breakdown of the resources required to create an iPhone and the origins of these resources. Merchant examines the human & earthly cost of producing an iPhone and shares some surprising results: the iPhone is worth only $1.03 in raw materials, its production requires 75 pounds of ore and 2.5 pounds of cyanide, and its procurement of these materials supports unethical working conditions.
+ 
+    1. 1 quote from the reading(s): "Locked inside every one, alongside the fruits of unparalleled design and technological innovation, are trace amounts of human suffering. It's an uncomfortable truth, maybe, but for now, it's a part of what makes the one device possible." This is an ominous conclusion. The manufacturing process, procurement of resources, and working conditions are all shadowed elements of a device's creation process, which are often purposefully overshadowed by its shiny-ness, its ability to solve a problem in your life, or its easy arrival at your doorstep.
+
+    1. 1 related comment on the reading(s): Apple claimed that they cut ties with 22 smelters for their failure to meet Apples "stringent standards." I don't understand how they were in a business relationship in the first place, if the working standards were so obviously unfit. It seems like Apple's standards aren't super stringent, but rather, they're just quick to try and cover their back in the face of bad press. In their statement, Apple seemed to frame themselves as the "good guy" who was taken advantage of by unfit working conditions, instead of the perpetrator of unfit working conditions. These details about supply chain & responsibility for poor working conditions seeem so obscure and hard to clarify.
+    
+    1. 1 related follow-up question (what question does it bring up for you?): How can we break the cycle of demand fueling unethical working conditions in the supply chain? It seems to hard to pinpoint specific, actionable ways to bring about change that aren't vague or unspecific suggestions about supporting workers' rights. 
+  
+ - Name of the article/reading
+    1. Summarize the article(s) in 3-4 sentences. Also include... 
+ 
+    1. 1 quote from the reading(s):
+
+    1. 1 related comment on the reading(s): 
+    
+    1. 1 related follow-up question (what question does it bring up for you?):
+
+ - Name of the article/reading
+    1. Summarize the article(s) in 3-4 sentences. Also include... 
+ 
+    1. 1 quote from the reading(s):
+
+    1. 1 related comment on the reading(s): 
+    
+    1. 1 related follow-up question (what question does it bring up for you?):
+
+### Experiments
+1. Name of the experiment
+    1. Text, photos, etc.
+    1. Describe the most important thing you learned (to share in class)
+    1. Write a quiz question (which we will discuss in class)
+
+## Week 6
+
+### Context
 - Name of the article/reading
     1. Summarize the article(s) in 3-4 sentences. Also include... 
  
