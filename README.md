@@ -182,11 +182,19 @@ The command line is much faster than clicking around in my directories. I'm exci
         * The sideways wifi symbol on a meter represents "continuity".
         * When measuring continuity on a switch, the meter will beep or visually indicate if it finds a connection, and will do nothing if it doesn’t.
         * On a schematic, zigzags represent resistors, 2 diagonal arrows represents light-emitting LED lights, 2 parallel lines of different lengths represents a battery, the large arrow represents the conventional current (the imaginary flow that runs from positive to negative).
+        * SPST — Single Pole Single Throw (on-off) toggle switch
+        * SPDT — Single Pole Double Throw (on-on), or Single Pole Double Throw with Center Off (on-off-on) toggle switch
+        * ON-(OFF) means it’s normally on, but when you push it, but becomes OFF momentarily when you push it and break the connection. The OFF state is momentary. This is called a “normally closed” (NC) momentary switch.
+        * (ON)-OFF-(ON): This switch has a center-off position so "when you push it either way, it makes a momentary contact, and returns to the center when you let it go."
+        * Parentheses indicate the momentary state (I think ON = closed and OFF = open?)
+    1. Most important thing learned is how to read schematics
         * The two schematics below represent the same circuit:
         * <img src="https://user-images.githubusercontent.com/59896196/155405593-de2e0f4c-7849-42b8-bf25-7cff64902044.png" width="450" height="300">
         * <img src="https://user-images.githubusercontent.com/59896196/155405671-2f18af6b-00e9-48c0-9a37-b43bd8d60a5c.png" width="450" height="300">
         * <img src="https://user-images.githubusercontent.com/59896196/155454877-0062946f-5a2b-408d-8940-8737eb99e12f.jpg" width="450" height="300">
         * <img src="https://user-images.githubusercontent.com/59896196/155454936-6285eadf-1544-4a4c-b0e8-a8bf7ed64a34.jpg" width="450" height="300">
+    1. Quiz question: What does OFF-(ON) mean?
+        * OFF-(ON) is a normally open (NO) toggle switch. This means it's normally OFF (open) but when you push it, it becomes momentarily ON (closed).
 
 Platt, Charles. Make: Electronics (p. 55). Make Community, LLC. Kindle Edition. 
     1. Describe the most important thing you learned (to share in class)
