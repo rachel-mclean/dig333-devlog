@@ -185,7 +185,8 @@ The command line is much faster than clicking around in my directories. I'm exci
         * The two schematics below represent the same circuit:
         * <img src="https://user-images.githubusercontent.com/59896196/155405593-de2e0f4c-7849-42b8-bf25-7cff64902044.png" width="450" height="300">
         * <img src="https://user-images.githubusercontent.com/59896196/155405671-2f18af6b-00e9-48c0-9a37-b43bd8d60a5c.png" width="450" height="300">
-
+        * <img src="https://user-images.githubusercontent.com/59896196/155454877-0062946f-5a2b-408d-8940-8737eb99e12f.jpg" width="450" height="300">
+        * <img src="https://user-images.githubusercontent.com/59896196/155454936-6285eadf-1544-4a4c-b0e8-a8bf7ed64a34.jpg" width="450" height="300">
 
 Platt, Charles. Make: Electronics (p. 55). Make Community, LLC. Kindle Edition. 
     1. Describe the most important thing you learned (to share in class)
