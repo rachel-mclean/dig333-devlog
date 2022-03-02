@@ -301,14 +301,23 @@ some other may work; something that we can't foresee or predict now may come alo
 ## Week 6
 
 ### Context
-- Name of the article/reading
-    1. Summarize the article(s) in 3-4 sentences. Also include... 
+- John Correll, Igloo White (2004) 
+    1. Summarize the article(s) in 3-4 sentences. Correll discussed the function of sensors in Project Nine and Igloo White, and revealed the role that sensors have in militaristic behavior and their contributions to warfare. Correll evaluated conflicting public reception of Igloo White, and the efficacy of the project in carrying out US objectives. Finally, Correll reflected on the "successes" of the sensors in aiding military efforts, which helped to identify and destroy many Vietnamese truck convoys.
  
-    1. 1 quote from the reading(s):
+    1. 1 quote from the reading(s): At a Pentagon news briefing ... Gen. William G. Evans, Air Force special assistant for sensor exploitation, explained that the sensors were identifying a strike zone. "... We have an interdiction system which can hurt the enemy, even when he seeks the cover of foliage, weather, or darkness." This quote stuck out to me because of the title "special assistant for sensor exploitation." To me the phrase "sensor exploitation" seems to suggest that the militaristic use of sensors is, in fact, exploitation, although I'm sure the title was meant to have a different meaning. The second part of the quote solidified for me that much of war is based on the objective to hurt others, under the guise of other "noble" objectives.
 
-    1. 1 related comment on the reading(s): 
+    1. 1 related comment on the reading(s): There seems to be conflicting opinions on the efficacy of sensors in military operations. The article concluded that there was some success, but in general concluded that the reported figures were not taken seriously, even by US officials. Overall, the article made me reflect on the point of war and the extravagent resources that are allocated to war objectives.
     
-    1. 1 related follow-up question (what question does it bring up for you?):
+    1. 1 related follow-up question (what question does it bring up for you?): What is the cost of allocating so much money and advanced technology resources to war? What is the "payoff"?
+
+- Mayo Nissen Unseen Sensors: Constantly Sensing but Rarely Seen (2014)
+    1. Summarize the article(s) in 3-4 sentences. Nissen speaks on the invisibile presence of sensors in everyday life and the framework of human decisions that undergird their existence. Sensors are formulated and placed based on ethical and political choices by people in power. 
+ 
+    1. 1 quote from the reading(s):  "It’s one thing to be able to recognize a CCTV camera. It is generally impossible, however, to know the fate of its data." Humans build prejudice into the frameworks of we make, even if it seems like objective data collection. Facial recognition software and other technology that relies on sensors have caused much harm to people of color. What seems like innocent data collection can be part of something much more harmful.
+
+    1. 1 related comment on the reading(s): Similar to how medecines and many health products require FDA clearance, I wonder if there might someday be an administration of technology that requires ethical review & clearance to ensure a lack of bias & the safety of consumers, in order for surveillance technologies to be released to public and private organizations. Of course, this assumes that the people behind this administration would care about fighting prejudice, have strong morals, and be informed of the bias that is often built into software. 
+    
+    1. 1 related follow-up question (what question does it bring up for you?): What does consent mean in the context of invisible sensors and invisible surveillance? Do we deserve informed consent, or are these surveillance methods for our own good?
 
 ### Experiments
 1. Name of the experiment
