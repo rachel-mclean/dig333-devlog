@@ -296,7 +296,7 @@ some other may work; something that we can't foresee or predict now may come alo
 
 ## Week 6
 - 3D Printed a raspberry pi case:
-    1. <img src="https://user-images.githubusercontent.com/59896196/158275042-6a74d18e-a211-4e9e-b67c-c475ae60cf9b.jpg" width="450" height="300">
+    1. <img src="https://user-images.githubusercontent.com/59896196/158275042-6a74d18e-a211-4e9e-b67c-c475ae60cf9b.jpg">
 ### Context
 - John Correll, Igloo White (2004) 
     1. Summarize the article(s) in 3-4 sentences. Correll discussed the function of sensors in Project Nine and Igloo
