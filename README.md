@@ -175,6 +175,8 @@ The command line is much faster than clicking around in my directories. I'm exci
  
 1. Platt, Experiment 6: Very Simple Switching (pg. 50) — This experiment will acquaint you with the function of manually operated switches.
     1. Notes
+        * <img src="https://user-images.githubusercontent.com/59896196/155454877-0062946f-5a2b-408d-8940-8737eb99e12f.jpg" width="450" height="300">
+        * <img src="https://user-images.githubusercontent.com/59896196/155454936-6285eadf-1544-4a4c-b0e8-a8bf7ed64a34.jpg" width="450" height="300">
         * "Switching" means using one flow of electricity to control another. This is done with transistors.
         * Relays have polarity, meaning it matters which direction current flows through.
         * The potruding circle with the smaller diameter on a 9V battery is the more positive side.
@@ -193,8 +195,6 @@ The command line is much faster than clicking around in my directories. I'm exci
         * The two schematics below represent the same circuit:
         * <img src="https://user-images.githubusercontent.com/59896196/155405593-de2e0f4c-7849-42b8-bf25-7cff64902044.png" width="450" height="300">
         * <img src="https://user-images.githubusercontent.com/59896196/155405671-2f18af6b-00e9-48c0-9a37-b43bd8d60a5c.png" width="450" height="300">
-        * <img src="https://user-images.githubusercontent.com/59896196/155454877-0062946f-5a2b-408d-8940-8737eb99e12f.jpg" width="450" height="300">
-        * <img src="https://user-images.githubusercontent.com/59896196/155454936-6285eadf-1544-4a4c-b0e8-a8bf7ed64a34.jpg" width="450" height="300">
     1. Quiz question: What does OFF-(ON) mean?
         * OFF-(ON) is a normally open (NO) toggle switch. This means it's normally OFF (open) but when you push it, it becomes momentarily ON (closed).
 
