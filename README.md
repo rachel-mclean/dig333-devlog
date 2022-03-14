@@ -182,6 +182,7 @@ The command line is much faster than clicking around in my directories. I'm exci
         * The sideways wifi symbol on a meter represents "continuity".
         * When measuring continuity on a switch, the meter will beep or visually indicate if it finds a connection, and will do nothing if it doesn’t.
         * On a schematic, zigzags represent resistors, 2 diagonal arrows represents light-emitting LED lights, 2 parallel lines of different lengths represents a battery, the large arrow represents the conventional current (the imaginary flow that runs from positive to negative).
+        * * <img src="https://user-images.githubusercontent.com/59896196/158276417-5d03b736-1aee-4c07-954b-14aff3f07a18.png" width="300" height="450">
         * SPST — Single Pole Single Throw (on-off) toggle switch
         * SPDT — Single Pole Double Throw (on-on), or Single Pole Double Throw with Center Off (on-off-on) toggle switch
         * ON-(OFF) means it’s normally on, but when you push it, but becomes OFF momentarily when you push it and break the connection. The OFF state is momentary. This is called a “normally closed” (NC) momentary switch.
