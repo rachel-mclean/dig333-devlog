@@ -295,9 +295,11 @@ some other may work; something that we can't foresee or predict now may come alo
     1. Write a quiz question (which we will discuss in class)
 
 ## Week 6
-3D Printed a raspberry pi case:
-<img src="https://user-images.githubusercontent.com/59896196/158275042-6a74d18e-a211-4e9e-b67c-c475ae60cf9b.jpg" width="300" height="450">
+
 ### Context
+- 3D Printed a raspberry pi case:
+    1. <img src="https://user-images.githubusercontent.com/59896196/158275042-6a74d18e-a211-4e9e-b67c-c475ae60cf9b.jpg" width="300" height="450">
+ 
 - John Correll, Igloo White (2004) 
     1. Summarize the article(s) in 3-4 sentences. Correll discussed the function of sensors in Project Nine and Igloo
 White, and revealed the role that sensors have in militaristic behavior and their contributions to warfare. Correll evaluated conflicting public reception of Igloo White, and the efficacy of the project in carrying out US objectives. Finally, Correll reflected on the "successes" of the sensors in aiding military efforts, which helped to identify and destroy many Vietnamese truck convoys.
