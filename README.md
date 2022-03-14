@@ -196,10 +196,6 @@ The command line is much faster than clicking around in my directories. I'm exci
     1. Quiz question: What does OFF-(ON) mean?
         * OFF-(ON) is a normally open (NO) toggle switch. This means it's normally OFF (open) but when you push it, it becomes momentarily ON (closed).
 
-Platt, Charles. Make: Electronics (p. 55). Make Community, LLC. Kindle Edition. 
-    1. Describe the most important thing you learned (to share in class)
-    1. Write a quiz question (which we will discuss in class)
-
 1. Platt, Experiment 7: Investigating a Relay (pg. 59)
     1. Text, photos, etc.
     1. Describe the most important thing you learned (to share in class)
@@ -299,10 +295,12 @@ some other may work; something that we can't foresee or predict now may come alo
     1. Write a quiz question (which we will discuss in class)
 
 ## Week 6
-
+- 3D Printed a raspberry pi case:
+    1. <img src="https://user-images.githubusercontent.com/59896196/158275042-6a74d18e-a211-4e9e-b67c-c475ae60cf9b.jpg" width="450" height="300">
 ### Context
 - John Correll, Igloo White (2004) 
-    1. Summarize the article(s) in 3-4 sentences. Correll discussed the function of sensors in Project Nine and Igloo White, and revealed the role that sensors have in militaristic behavior and their contributions to warfare. Correll evaluated conflicting public reception of Igloo White, and the efficacy of the project in carrying out US objectives. Finally, Correll reflected on the "successes" of the sensors in aiding military efforts, which helped to identify and destroy many Vietnamese truck convoys.
+    1. Summarize the article(s) in 3-4 sentences. Correll discussed the function of sensors in Project Nine and Igloo
+White, and revealed the role that sensors have in militaristic behavior and their contributions to warfare. Correll evaluated conflicting public reception of Igloo White, and the efficacy of the project in carrying out US objectives. Finally, Correll reflected on the "successes" of the sensors in aiding military efforts, which helped to identify and destroy many Vietnamese truck convoys.
  
     1. 1 quote from the reading(s): At a Pentagon news briefing ... Gen. William G. Evans, Air Force special assistant for sensor exploitation, explained that the sensors were identifying a strike zone. "... We have an interdiction system which can hurt the enemy, even when he seeks the cover of foliage, weather, or darkness." This quote stuck out to me because of the title "special assistant for sensor exploitation." To me the phrase "sensor exploitation" seems to suggest that the militaristic use of sensors is, in fact, exploitation, although I'm sure the title was meant to have a different meaning. The second part of the quote solidified for me that much of war is based on the objective to hurt others, under the guise of other "noble" objectives.
 
