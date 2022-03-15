@@ -217,7 +217,7 @@ The command line is much faster than clicking around in my directories. I'm exci
         * When using the equation T = R x C, Remember to convert to ohms and farads, using Ohm's law and the fact that $1uf = 1e^-6$ farads
         * T is then the number of seconds required for a capacitator to acquire 63% of the voltage bein gsupplied to it, if it starts with zero volts. 
         * Less resistance = faster time constant, but this is not a linear relationship.
-        * <img src=https://user-images.githubusercontent.com/59896196/158291616-511eca8c-1adb-4cac-b74e-2ca9c7470ad5.png" width="400" height="400">
+        * <img src="https://user-images.githubusercontent.com/59896196/158291616-511eca8c-1adb-4cac-b74e-2ca9c7470ad5.png" width="400" height="400">
 
     1. Describe the most important thing you learned (to share in class)
         * The speed that a battery charges can be determined by the equation T = R x C, where T stands for the time constant in seconds if a capacitiator of value C farads is charged through a resistor of R ohms.
