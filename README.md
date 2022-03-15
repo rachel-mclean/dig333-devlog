@@ -201,10 +201,9 @@ The command line is much faster than clicking around in my directories. I'm exci
 1. Platt, Experiment 7: Investigating a Relay (pg. 59)
     1. Notes
         * Relay - switch that turns on or off in response to a signal that you send to it
-        * <img src="https://user-images.githubusercontent.com/59896196/158290010-821815e0-9160-4f8c-bbbd-ec1d7dd49c45.png" width="450" height="300">
 
-    2. Describe the most important thing you learned (to share in class)
-    4. Write a quiz question (which we will discuss in class)
+    1. Describe the most important thing you learned (to share in class)
+    1. Write a quiz question (which we will discuss in class)
  
 1. Platt, Experiment 8: A Relay Oscillator (pg. 65)
     1. Text, photos, etc.
@@ -212,7 +211,8 @@ The command line is much faster than clicking around in my directories. I'm exci
     1. Write a quiz question (which we will discuss in class)
 
 1. Platt, Experiment 9: Time and Capacitators (pg. 75)
-    1. Text, photos, etc.
+    1. Notes
+        * <img src="https://user-images.githubusercontent.com/59896196/158290010-821815e0-9160-4f8c-bbbd-ec1d7dd49c45.png" width="400" height="400">
     1. Describe the most important thing you learned (to share in class)
     1. Write a quiz question (which we will discuss in class)
 
