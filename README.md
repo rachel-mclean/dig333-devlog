@@ -213,7 +213,12 @@ The command line is much faster than clicking around in my directories. I'm exci
 1. Platt, Experiment 9: Time and Capacitators (pg. 75)
     1. Notes
         * <img src="https://user-images.githubusercontent.com/59896196/158290010-821815e0-9160-4f8c-bbbd-ec1d7dd49c45.png" width="400" height="400">
+        * An RC network is a circuit composed of a resistor (R) and capacitor (C)
+        * When using the equation $T = R x C$, Remember to convert to ohms and farads, using Ohm's law and the fact that $1uf = 1e^-6$ farads
+        * $T$ is then the number of seconds required for a capacitator to acquire 63% of the voltage bein gsupplied to it, if it starts with zero volts. 
     1. Describe the most important thing you learned (to share in class)
+        * The speed that a battery charges can be determined by the equation $T = R x C$, where T stands for the time constant in seconds if a capacitiator of value C farads is charged through a resistor of R ohms.
+
     1. Write a quiz question (which we will discuss in class)
 
 1. Platt, Experiment 10: Transistor Switching (pg. 84)
