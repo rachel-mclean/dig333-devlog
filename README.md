@@ -220,7 +220,7 @@ The command line is much faster than clicking around in my directories. I'm exci
         * <img src="https://user-images.githubusercontent.com/59896196/158291616-511eca8c-1adb-4cac-b74e-2ca9c7470ad5.png" width="400" height="400">
 
     1. Describe the most important thing you learned (to share in class)
-        * The speed that a battery charges can be determined by the equation T = R x C, where T stands for the time constant in seconds if a capacitiator of value C farads is charged through a resistor of R ohms.
+        * The speed that a battery charges can be determined by the equation T = R x C, where T stands for the time constant in seconds if a capacitor of C farads is charged through a resistor of R ohms.
 
     1. Write a quiz question (which we will discuss in class)
         * What kind of current does a capacitor block?
