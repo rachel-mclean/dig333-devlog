@@ -417,3 +417,12 @@ White, and revealed the role that sensors have in militaristic behavior and thei
     1. Text, photos, etc.
     1. Describe the most important thing you learned (to share in class)
     1. Write a quiz question (which we will discuss in class)
+
+
+## Week 7
+
+## Week 8
+### Project Progress
+    1. Installed CyberDuck to create and edit Python files in the Terminal
+        1. <img src = "https://user-images.githubusercontent.com/59896196/159791841-fa45d3f4-2437-46fc-82bb-8d8f9f999e4e.png">
+
