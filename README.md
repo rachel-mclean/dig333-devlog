@@ -188,8 +188,16 @@ The command line is much faster than clicking around in my directories. I'm exci
     1. 1 related comment on the reading(s): This content presented an interesting philosophical history that I wasn't aware of. The idea that computers can turn people into heroic individuals who are connected by a stable order of networks sounds sketchy and idealistic to me. The philosophy relies upon the idea that every human only needs themselves. I agree with the conclusion — too much individual power causes corruption. As we've learned in prior content, I believe community and conviviality are essential to both individual happiness and societal growth. 
     
     1. 1 related follow-up question (what question does it bring up for you?): The conclusion states that the California Ideology did not deliver its promise. Instead, humans feel powerless and helpless in the systems that govern us. While this conclusion still rings true, this video was from 2011. Is there another popular ideology circulating today, that delivers a similar (or different) promise?
+
 ### Experiments
-1. Name of the experiment
+1. Tinkercad
+    * On Tinkercad, I learned how to navigate the interface, use the camera controls, scale and copy objects, and create holes.
+
+1. CodeAcademy helpful notes
+    1. <img src = "https://user-images.githubusercontent.com/59896196/159647996-38dc9033-c8be-4701-9cec-93c4c28ac99f.png" width="150" height="200">
+
+
+1. Monk
     1. Text, photos, etc.
     1. Describe the most important thing you learned (to share in class)
     1. Write a quiz question (which we will discuss in class)
