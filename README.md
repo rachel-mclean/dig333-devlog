@@ -201,7 +201,7 @@ The command line is much faster than clicking around in my directories. I'm exci
     1. Notes
         * In this experiment, the meter beeps when the button is pressed and stops when you release the button.
         * You can figure out the pin functions of a relay by reading the manufacturer's datasheet or testing with a meter.
-        * <img src ="https://user-images.githubusercontent.com/59896196/159623870-10a2618a-02af-4f16-a9da-0a7970403192.png" width="450" height="300">
+        * <img src ="https://user-images.githubusercontent.com/59896196/159623870-10a2618a-02af-4f16-a9da-0a7970403192.png" width="500" height="250">
         * <img src = "https://user-images.githubusercontent.com/59896196/159623967-ad487af6-661b-4c74-98f2-4361b0662594.png" width="450" height="300">
         * Relay schematics are drawn with the internal pin in the position when power is not applied.
         * Usual smaller relays switch less current and are more complex than larger relays.
