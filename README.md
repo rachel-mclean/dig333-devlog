@@ -203,7 +203,7 @@ The command line is much faster than clicking around in my directories. I'm exci
     1. Date Time
         * <img src = "https://user-images.githubusercontent.com/59896196/159651499-b950450b-defb-42aa-81b3-8816d09034b9.png" width="400" height="100"
         * Screenshot showing completion of "Strings" lesson:
-        * <img src = "https://user-images.githubusercontent.com/59896196/159651398-e088d883-ac12-458a-93d7-9cb4016c4964.png)" width="400" height="300">
+        * <img src = "https://user-images.githubusercontent.com/59896196/159651398-e088d883-ac12-458a-93d7-9cb4016c4964.png" width="400" height="300">
 
 1. Monk
     1. Text, photos, etc.
