@@ -145,6 +145,7 @@ The command line is much faster than clicking around in my directories. I'm exci
     1. Zero is about half the size of Pi 3 or 4 and saves space. It also has wifi for remote access and is good for embedded electronics projects and electronic display boards. 
     1. RPi 3 uses less power than RPi 4 and has Wifi and Bluetooth. RPi 3 is good for electronics, home automation, media centers, and electronic display boards.
     1. RPi 4 allows for choice of memory sizes and a USB-C connector. It operates at a very hot temperature. RPi 4 is good for desktop computer replacement, computer vision, media centers, and electronic display boards.
+    1. Overclocking can make your pi run faster, at the cost of using more current at a higher temperature.
     1. Helpful RPi commands:
         * "ssh pi@rachelpi" to log on (password raspberry)
         * "sudo raspi-config" to configure your pi
