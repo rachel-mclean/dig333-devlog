@@ -234,7 +234,9 @@ The command line is much faster than clicking around in my directories. I'm exci
     1. Describe the most important thing you learned (to share in class)
         * Capacitators function like tiny batteries and undergo charging and discharging processes.
         * To find breadboard errors: check voltages, check placement of jumper cables, check the orientation of components is offering the correct polarity, check that resistor & capacitator values are correct.
-    3. Write a quiz question (which we will discuss in class)
+    1. Write a quiz question (which we will discuss in class)
+        * How many uF is 0.1F (farads)?
+        * Solution: 100,000uF
 
 1. Platt, Experiment 9: Time and Capacitators (pg. 75)
     1. Notes
