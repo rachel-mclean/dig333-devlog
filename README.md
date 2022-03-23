@@ -199,10 +199,22 @@ The command line is much faster than clicking around in my directories. I'm exci
 
 1. Platt, Experiment 7: Investigating a Relay (pg. 59)
     1. Notes
-        * Relay - switch that turns on or off in response to a signal that you send to it
+        * In this experiment, the meter beeps when the button is pressed and stops when you release the button.
+        * You can figure out the pin functions of a relay by reading the manufacturer's datasheet or testing with a meter.
+        * <img src ="https://user-images.githubusercontent.com/59896196/159623870-10a2618a-02af-4f16-a9da-0a7970403192.png" width="450" height="300">
+        * <img src = "https://user-images.githubusercontent.com/59896196/159623967-ad487af6-661b-4c74-98f2-4361b0662594.png" width="450" height="300">
+        * Relay schematics are drawn with the internal pin in the position when power is not applied.
+        * Usual smaller relays switch less current and are more complex than larger relays.
+        * Coil voltage - voltage relay is supposed to receive
+        * Set voltage - minimum voltage the relay will accept to close its switch (less than coil voltage)
+        * Operating current - power consumption of the coil(milliamps) when relay is energized
+        * Switching capacity - max current the relay can switch without damage
 
     1. Describe the most important thing you learned (to share in class)
+       * A relay is a switch that turns on or off in response to a signal that you send to it.
     1. Write a quiz question (which we will discuss in class)
+        * How can you reverse the behavior of the relay, so that the meter beeps when you release the button and stops when you press the button?
+        * Answer: Move the test lead to the next vacant pin beside it.
  
 1. Platt, Experiment 8: A Relay Oscillator (pg. 65)
     1. Text, photos, etc.
