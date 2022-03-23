@@ -424,7 +424,7 @@ White, and revealed the role that sensors have in militaristic behavior and thei
 ## Week 8
 
 ### Project Progress
-1. With Dr. Mundy's help, I installed CyberDuck, created a new bookmark called "rachelpi" that I connected to the rachelpi server. This lets me create and edit Python files in the Terminal through my pi.
+1. With Dr. Mundy's help, I installed CyberDuck and created a new bookmark called "rachelpi" that I connected to the rachelpi server. This lets me create and edit Python files in the Terminal through my pi.
     1. <img src = "https://user-images.githubusercontent.com/59896196/159791841-fa45d3f4-2437-46fc-82bb-8d8f9f999e4e.png" width="300" height = "250">
     2. When making changes, must press "Command+r" in CyberDuck to see them.
 
