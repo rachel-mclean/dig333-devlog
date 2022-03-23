@@ -255,11 +255,21 @@ The command line is much faster than clicking around in my directories. I'm exci
         * Solution: A capacitor blocks DC (direct current) but will allows AC through (alternating current).
 
 1. Platt, Experiment 10: Transistor Switching (pg. 84)
-    1. Text, photos, etc.
+    1. Notes
+        * <img src = "https://user-images.githubusercontent.com/59896196/159631803-5c6e8f1c-68d1-4f82-a559-b749f998da78.jpg" width="250" height="400">
+        * The harder you press, the brighter the LED becomes. The transistor amplifies the current flowing through your finger.
+        * On an NPM bipolar transistor, there are 3 leads
+            * The collector- current flows in
+            * The base - current controls the flow
+            * The emitter - current flows out
     1. Describe the most important thing you learned (to share in class)
+       * Two common functions of a transistor:
+            * NPM controls steady flow of electricity
+            * PNP allows negative current to flow
+       * The voltage at the base of a bipolar transistor controls the output of the transistor.
     1. Write a quiz question (which we will discuss in class)
-
-
+        * How does voltage at the emitter compare to voltage at the base?
+        * Solution: Voltage is lower at the emitter than at the base.
 ## Week 4
 
 ### Context
