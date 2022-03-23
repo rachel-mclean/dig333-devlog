@@ -206,9 +206,16 @@ The command line is much faster than clicking around in my directories. I'm exci
         * <img src = "https://user-images.githubusercontent.com/59896196/159651398-e088d883-ac12-458a-93d7-9cb4016c4964.png" width="400" height="300">
 
 1. Monk
-    1. Text, photos, etc.
-    1. Describe the most important thing you learned (to share in class)
-    1. Write a quiz question (which we will discuss in class)
+    1. Two different methods to find your IP address: hostname -I or ifconfig 
+        * ![image](https://user-images.githubusercontent.com/59896196/159656120-97982007-04e8-4676-aa84-c9cc4b1b74a7.png)
+        * My pi's IP address is 10.53.148.78
+    1. Use sudo raspi-config to change the hostname of a RPi (note: only use letters, numbers, and -)
+    1. How to connect and disconnect to a RPi via SSH: ssh 10.53.148.78 l pi or ssh pi@rachelpi
+    1. How to perform basic filesystem task over SSH
+        * Install netatalk using "sudo apt-get update" and "sudo apt-get install netatalk" ☑️
+        * Connect to server using your pi's IP address
+        * I am not yet able to perform basic filsystem tasks because I'm trying to figure out this error
+        * <img src = https://user-images.githubusercontent.com/59896196/159655702-d5092cc6-3cd6-4b0e-806a-658353495403.png" width="150" height="100"
 
 ## Week 4
 
