@@ -171,7 +171,82 @@ The command line is much faster than clicking around in my directories. I'm exci
     
     1. 1 related follow-up question (what question does it bring up for you?): The conclusion states that the California Ideology did not deliver its promise. Instead, humans feel powerless and helpless in the systems that govern us. While this conclusion still rings true, this video was from 2011. Is there another popular ideology circulating today, that delivers a similar (or different) promise?
 ### Experiments
+1. Name of the experiment
+    1. Text, photos, etc.
+    1. Describe the most important thing you learned (to share in class)
+    1. Write a quiz question (which we will discuss in class)
+
+## Week 4
+
+### Context
+- Pay for the Printer by Philip Dick
+    1. Summarize the article(s) in 3-4 sentences. This story describes the state of a dystopian world after an alien race called the Biltong begin to weak, after being relied upon too heavilty by the human race to produce or "print" human artifacts. The world is characterized as being in a state of decay, and the Biltong can no longer reproduce or "spawn." The humans in the story are surprised to learn that people are still capable of creating things.
  
+    1. 1 quote from the reading(s): "The word froze all four of them. Chicago, the settlement that had collapsed! ... Sooner or later, what had happened to the Chicago settlement would happen to them all." This quote stood out to me because I'm from Chicago. The suggestion of Chicago falling into a state of dystopian collapse hit home more than the other descriptions. With the onset of climate change and irreversiible environmental damage, I wonder how far off this future is. Or, as the story more directly suggests, human reliance or exploitation of technology could also bring about this future.
+    
+
+    1. As I began reading this, I was a little disoriented. The state of the world was implied instead of outwardly explained. As I adjusted to the meaning of "Biltong", "settlement", "print", etc, I began to enjoy the story. The dystopian qualities of this world hit the reader in the face. Every sentence is filled with dreary descriptions of a frighteningly abysmal reality. It seems that this reality was brought upon by human dependency on the Biltong to produce all resources. This story suggests that human dependency on technology could end very badly.
+    
+    1. 1 related follow-up question (what question does it bring up for you?): Another quote from the reading(s): "You made this knife?" Fergesson asked, dazed. "I can't believe it. Where do you start? You have to have tools to make this. It's a paradox!" His voice rose with hysteria. "It isn't possible!" Fergesson's hysteria is very ominous. It suggests that humans lost their craftmanship and the ability to create their own tools. It brings up the question — how can we balance technological advancement with the maintanence of own our craftmanshp/skillset? Like languages, it seems that certain skills would become obselete and unknowable once technology replaces them. Can we create technological advances without causing a multi-generational regression our own human capabilities?
+
+- The Preserving Machine
+    1. Summarize the article(s) in 3-4 sentences. Dan Labyrinth envisions a world without music and frets about how terrible that reality would be. He comes up with the idea of applying a survival instinct to musical scores, so that they can preserve themselves. Labyrinth is surprised at the variety of animal-like creatures that embody each score, and weary of the unexpected transformations they undergo to adapt to the wilderness. When the musical scores totally change
+ 
+    1. 1 quote from the reading(s): "Music is the most perishable of things, fragile and delicate, easily destroyed." In the pursuit of advancing technology, other valuable assets can become obselete and our literacy in previously accessible skills can become weakened. It isn't crazy to think that one day music might be lost. The preservation technique used in this story doesn't work — in fact, the very essence of what is being preserved becomes unrecognizeable due to humankind's interferance with the natural order of survival. This suggests that human-built advanced technology might have unexpected consequences or could cause unexpected transformations, and might not be the best route for preserving things.
+
+    1. 1 related comment on the reading(s): The narrator seems to have an optimistic view about technology's ability to solve Labyrinth's music preservation dilemma, despite Labyrinth's concerns. He says, "Even though this method failed,
+some other may work; something that we can't foresee or predict now may come along, some day." I think a balance of optimism and skepticism about technology is healthy and allows us to think critically about how technology operates and impacts the world.
+    
+    1. 1 related follow-up question (what question does it bring up for you?): In light of the story's outcome, what preservation method is best to preserve things we don't want to lose? Labyrinth concludes, "Perhaps nothing can be done, then, to save those manners and morals." Is it best to succomb to the reality that all might be lost someday?
+    
+- Adam Curtis, All Watched Over by Machines of Loving Grace, Part 2
+    1. Summarize the article(s): This audio talks about systems: their ability to reach equilibrium, how systems operate, and how the behavior of systems might be replicated by computers and machines. Ultimately, the audio concludes that "the ultimate equilibrium" and "the balance of nature" is an illusion. Instead, we live in a dynamic world.
+ 
+    1. 1 quote from the reading(s): "Every action we take has consequences that feed through the system and return to shape our future behavior in ways we cannot see. But the computers could. [Computers] have the power to analyze the true consequences of human actions, feedback loops." The word system is used quite a bit in this audio and seems to vaguely suggest a mechanism used to maintain order. The word "system" takes on an ominous quality. I don't think we want computer systems to be able to fully and powerfully anayze the consequences of human actions in pursuit of a mythic equilibrium.
+
+    1. 1 related comment on the reading(s): Humans often believe in the myth that systems tend toward equlibrium and will always try to regulate and stabilize themselves through a natural machine called the "ecosystem." Equilibrium is often emphasized as the most desirable state of being. When talking about illusionary equilibriums and balances of nature, we must ask ourselves *who* determines where the equilibrium and state of balance is. For example, in systems that perpetuate racism and believe in white supremacy, the hegemonic definition of equilibrium might harm people of color and is not, in fact, a true equilibrium.
+    
+    1. 1 related follow-up question (what question does it bring up for you?): In the introduction, this audio asks if old hierarchies of power (such as governments, economies, and natural ecosystems) can by replaced by self-organizing networks. Humans dream of the self-organizing systems and fantasy machines that naturally attain their own state of equilibrium without interference. How is this phenomenon visible (or in-visible) in "Pay for the Printer" and "The Preserving Machine"?
+
+### Experiments
+1. Name of the experiment
+    1. Text, photos, etc.
+    1. Describe the most important thing you learned (to share in class)
+    1. Write a quiz question (which we will discuss in class)
+
+## Week 5
+
+### Context
+- Brian Merchant, Everything That’s Inside Your iPhone, Motherboard (2017) 
+    1. Summarize the article(s) in 3-4 sentences: Merchant provides a breakdown of the resources required to create an iPhone and the origins of these resources. Merchant examines the human & earthly cost of producing an iPhone and shares some surprising results: the iPhone is worth only $1.03 in raw materials, its production requires 75 pounds of ore and 2.5 pounds of cyanide, and its procurement of these materials supports unethical working conditions.
+ 
+    1. 1 quote from the reading(s): "Locked inside every one, alongside the fruits of unparalleled design and technological innovation, are trace amounts of human suffering. It's an uncomfortable truth, maybe, but for now, it's a part of what makes the one device possible." This is an ominous conclusion. The manufacturing process, procurement of resources, and working conditions are all shadowed elements of a device's creation process, which are often purposefully overshadowed by its shiny-ness, its ability to solve a problem in your life, or its easy arrival at your doorstep.
+
+    1. 1 related comment on the reading(s): Apple claimed that they cut ties with 22 smelters for their failure to meet Apples "stringent standards." I don't understand how they were in a business relationship in the first place, if the working standards were so obviously unfit. It seems like Apple's standards aren't super stringent, but rather, they're just quick to try and cover their back in the face of bad press. In their statement, Apple seemed to frame themselves as the "good guy" who was taken advantage of by unfit working conditions, instead of the perpetrator of unfit working conditions. These details about supply chain & responsibility for poor working conditions seeem so obscure and hard to clarify.
+    
+    1. 1 related follow-up question (what question does it bring up for you?): How can we break the cycle of demand fueling unethical working conditions in the supply chain? It seems to hard to pinpoint specific, actionable ways to bring about change that aren't vague or unspecific suggestions about supporting workers' rights. 
+  
+ - One Man's Nearly Impossible Quest to Make a Toaster From Scratch, 2011
+    1. Summarize the article(s) in 3-4 sentences: Thomas Thwaites embarked on the journey of creating a toaster from scratch, starting with the procurement of raw earth materials. The article emphasized the lack of knowledge about the distance that exists between the item that arrives at a consumer's doorstep and the complex processes required to produce the item.
+ 
+    1. 1 quote from the reading(s): “He was able to boil down, he says, "the massive industrial activity devoted to making objects which enable us, the consumer, to toast bread more efficiently." This "massive industrial activity" comes at the cost of individual human knowledge and literacy in being able to create simple devices. Is this phenomenon combattable or are we destined to doom ourselves by saturating the world with unknoweable devices??
+
+    1. 1 related comment on the reading(s): This article made me appreciate things like woodworking, glassblowing, and blacksmithing. These are processes that use (usually) only one or two raw materials to create a useful item or work of art. If we went into an apocalypse and industry fell apart, these skills would become almost sacred. Woodworking, glassblowing, blacksmithing, weaving, etc seem like they provided the original blueprint to engineering.
+    
+    1. 1 related follow-up question (what question does it bring up for you?): How can we help communities that are vulnerable to being exploited by the supply and demand chain?
+
+ - The Monkey in the Machine and the Machine in the Monkey (All Watched Over by Machines of Loving Grace, Part 3)
+
+    1. Summarize the article(s) in 3-4 sentences. This audio discussed the historical legacy that accompanies the mining of raw minerals. Specifically, the audio talked about the conflict surrounding mining valuable raw minerals for computers and cell phones in Congo, and how Western mining companies remained intact while Congo experience devestating tragedy. Also, Prince and Hamilton had some insane eugenic-like philosophies that characterized the human race as computers.
+
+ 
+    1. 1 quote from the reading(s): The conclusion struck me: “We have embraced a fatalistic philosophy of us as helpless computing machines to both excuse and explain our political failure to change the world.” I think this is a call to action to stop comparing ourselves to computers and to view our behavior more critically. Based on the eugenic-like philosophies purported by Hamilton, it's clear that viewing the human race as self-replicating machines has dangerous consequences that would forward white supremacy.
+
+
+    1. 1 related comment on the reading(s): I was really sad and shocked to hear that the Congo conflict was brought about by fabricated Belgium claims. I liked how this audio connected the conversation around self-sufficient computers with colonialism and racism. It's important to remember that Western mining activity  is completely rooted in colonialism and racism. 
+    
+    1. 1 related follow-up question (what question does it bring up for you?): How can the human race distance itself from the "fatalistic philosophy of us as helpless computing machines"?
+
 1. Platt, Experiment 6: Very Simple Switching (pg. 50) — This experiment will acquaint you with the function of manually operated switches.
     1. Notes
         * <img src="https://user-images.githubusercontent.com/59896196/155454877-0062946f-5a2b-408d-8940-8737eb99e12f.jpg" width="450" height="300">
@@ -270,83 +345,6 @@ The command line is much faster than clicking around in my directories. I'm exci
     1. Write a quiz question (which we will discuss in class)
         * How does voltage at the emitter compare to voltage at the base?
         * Solution: Voltage is lower at the emitter than at the base.
-## Week 4
-
-### Context
-- Pay for the Printer by Philip Dick
-    1. Summarize the article(s) in 3-4 sentences. This story describes the state of a dystopian world after an alien race called the Biltong begin to weak, after being relied upon too heavilty by the human race to produce or "print" human artifacts. The world is characterized as being in a state of decay, and the Biltong can no longer reproduce or "spawn." The humans in the story are surprised to learn that people are still capable of creating things.
- 
-    1. 1 quote from the reading(s): "The word froze all four of them. Chicago, the settlement that had collapsed! ... Sooner or later, what had happened to the Chicago settlement would happen to them all." This quote stood out to me because I'm from Chicago. The suggestion of Chicago falling into a state of dystopian collapse hit home more than the other descriptions. With the onset of climate change and irreversiible environmental damage, I wonder how far off this future is. Or, as the story more directly suggests, human reliance or exploitation of technology could also bring about this future.
-    
-
-    1. As I began reading this, I was a little disoriented. The state of the world was implied instead of outwardly explained. As I adjusted to the meaning of "Biltong", "settlement", "print", etc, I began to enjoy the story. The dystopian qualities of this world hit the reader in the face. Every sentence is filled with dreary descriptions of a frighteningly abysmal reality. It seems that this reality was brought upon by human dependency on the Biltong to produce all resources. This story suggests that human dependency on technology could end very badly.
-    
-    1. 1 related follow-up question (what question does it bring up for you?): Another quote from the reading(s): "You made this knife?" Fergesson asked, dazed. "I can't believe it. Where do you start? You have to have tools to make this. It's a paradox!" His voice rose with hysteria. "It isn't possible!" Fergesson's hysteria is very ominous. It suggests that humans lost their craftmanship and the ability to create their own tools. It brings up the question — how can we balance technological advancement with the maintanence of own our craftmanshp/skillset? Like languages, it seems that certain skills would become obselete and unknowable once technology replaces them. Can we create technological advances without causing a multi-generational regression our own human capabilities?
-
-- The Preserving Machine
-    1. Summarize the article(s) in 3-4 sentences. Dan Labyrinth envisions a world without music and frets about how terrible that reality would be. He comes up with the idea of applying a survival instinct to musical scores, so that they can preserve themselves. Labyrinth is surprised at the variety of animal-like creatures that embody each score, and weary of the unexpected transformations they undergo to adapt to the wilderness. When the musical scores totally change
- 
-    1. 1 quote from the reading(s): "Music is the most perishable of things, fragile and delicate, easily destroyed." In the pursuit of advancing technology, other valuable assets can become obselete and our literacy in previously accessible skills can become weakened. It isn't crazy to think that one day music might be lost. The preservation technique used in this story doesn't work — in fact, the very essence of what is being preserved becomes unrecognizeable due to humankind's interferance with the natural order of survival. This suggests that human-built advanced technology might have unexpected consequences or could cause unexpected transformations, and might not be the best route for preserving things.
-
-    1. 1 related comment on the reading(s): The narrator seems to have an optimistic view about technology's ability to solve Labyrinth's music preservation dilemma, despite Labyrinth's concerns. He says, "Even though this method failed,
-some other may work; something that we can't foresee or predict now may come along, some day." I think a balance of optimism and skepticism about technology is healthy and allows us to think critically about how technology operates and impacts the world.
-    
-    1. 1 related follow-up question (what question does it bring up for you?): In light of the story's outcome, what preservation method is best to preserve things we don't want to lose? Labyrinth concludes, "Perhaps nothing can be done, then, to save those manners and morals." Is it best to succomb to the reality that all might be lost someday?
-    
-- Adam Curtis, All Watched Over by Machines of Loving Grace, Part 2
-    1. Summarize the article(s): This audio talks about systems: their ability to reach equilibrium, how systems operate, and how the behavior of systems might be replicated by computers and machines. Ultimately, the audio concludes that "the ultimate equilibrium" and "the balance of nature" is an illusion. Instead, we live in a dynamic world.
- 
-    1. 1 quote from the reading(s): "Every action we take has consequences that feed through the system and return to shape our future behavior in ways we cannot see. But the computers could. [Computers] have the power to analyze the true consequences of human actions, feedback loops." The word system is used quite a bit in this audio and seems to vaguely suggest a mechanism used to maintain order. The word "system" takes on an ominous quality. I don't think we want computer systems to be able to fully and powerfully anayze the consequences of human actions in pursuit of a mythic equilibrium.
-
-    1. 1 related comment on the reading(s): Humans often believe in the myth that systems tend toward equlibrium and will always try to regulate and stabilize themselves through a natural machine called the "ecosystem." Equilibrium is often emphasized as the most desirable state of being. When talking about illusionary equilibriums and balances of nature, we must ask ourselves *who* determines where the equilibrium and state of balance is. For example, in systems that perpetuate racism and believe in white supremacy, the hegemonic definition of equilibrium might harm people of color and is not, in fact, a true equilibrium.
-    
-    1. 1 related follow-up question (what question does it bring up for you?): In the introduction, this audio asks if old hierarchies of power (such as governments, economies, and natural ecosystems) can by replaced by self-organizing networks. Humans dream of the self-organizing systems and fantasy machines that naturally attain their own state of equilibrium without interference. How is this phenomenon visible (or in-visible) in "Pay for the Printer" and "The Preserving Machine"?
-
-### Experiments
-1. Name of the experiment
-    1. Text, photos, etc.
-    1. Describe the most important thing you learned (to share in class)
-    1. Write a quiz question (which we will discuss in class)
-
-## Week 5
-
-### Context
-- Brian Merchant, Everything That’s Inside Your iPhone, Motherboard (2017) 
-    1. Summarize the article(s) in 3-4 sentences: Merchant provides a breakdown of the resources required to create an iPhone and the origins of these resources. Merchant examines the human & earthly cost of producing an iPhone and shares some surprising results: the iPhone is worth only $1.03 in raw materials, its production requires 75 pounds of ore and 2.5 pounds of cyanide, and its procurement of these materials supports unethical working conditions.
- 
-    1. 1 quote from the reading(s): "Locked inside every one, alongside the fruits of unparalleled design and technological innovation, are trace amounts of human suffering. It's an uncomfortable truth, maybe, but for now, it's a part of what makes the one device possible." This is an ominous conclusion. The manufacturing process, procurement of resources, and working conditions are all shadowed elements of a device's creation process, which are often purposefully overshadowed by its shiny-ness, its ability to solve a problem in your life, or its easy arrival at your doorstep.
-
-    1. 1 related comment on the reading(s): Apple claimed that they cut ties with 22 smelters for their failure to meet Apples "stringent standards." I don't understand how they were in a business relationship in the first place, if the working standards were so obviously unfit. It seems like Apple's standards aren't super stringent, but rather, they're just quick to try and cover their back in the face of bad press. In their statement, Apple seemed to frame themselves as the "good guy" who was taken advantage of by unfit working conditions, instead of the perpetrator of unfit working conditions. These details about supply chain & responsibility for poor working conditions seeem so obscure and hard to clarify.
-    
-    1. 1 related follow-up question (what question does it bring up for you?): How can we break the cycle of demand fueling unethical working conditions in the supply chain? It seems to hard to pinpoint specific, actionable ways to bring about change that aren't vague or unspecific suggestions about supporting workers' rights. 
-  
- - One Man's Nearly Impossible Quest to Make a Toaster From Scratch, 2011
-    1. Summarize the article(s) in 3-4 sentences: Thomas Thwaites embarked on the journey of creating a toaster from scratch, starting with the procurement of raw earth materials. The article emphasized the lack of knowledge about the distance that exists between the item that arrives at a consumer's doorstep and the complex processes required to produce the item.
- 
-    1. 1 quote from the reading(s): “He was able to boil down, he says, "the massive industrial activity devoted to making objects which enable us, the consumer, to toast bread more efficiently." This "massive industrial activity" comes at the cost of individual human knowledge and literacy in being able to create simple devices. Is this phenomenon combattable or are we destined to doom ourselves by saturating the world with unknoweable devices??
-
-    1. 1 related comment on the reading(s): This article made me appreciate things like woodworking, glassblowing, and blacksmithing. These are processes that use (usually) only one or two raw materials to create a useful item or work of art. If we went into an apocalypse and industry fell apart, these skills would become almost sacred. Woodworking, glassblowing, blacksmithing, weaving, etc seem like they provided the original blueprint to engineering.
-    
-    1. 1 related follow-up question (what question does it bring up for you?): How can we help communities that are vulnerable to being exploited by the supply and demand chain?
-
- - The Monkey in the Machine and the Machine in the Monkey (All Watched Over by Machines of Loving Grace, Part 3)
-
-    1. Summarize the article(s) in 3-4 sentences. This audio discussed the historical legacy that accompanies the mining of raw minerals. Specifically, the audio talked about the conflict surrounding mining valuable raw minerals for computers and cell phones in Congo, and how Western mining companies remained intact while Congo experience devestating tragedy. Also, Prince and Hamilton had some insane eugenic-like philosophies that characterized the human race as computers.
-
- 
-    1. 1 quote from the reading(s): The conclusion struck me: “We have embraced a fatalistic philosophy of us as helpless computing machines to both excuse and explain our political failure to change the world.” I think this is a call to action to stop comparing ourselves to computers and to view our behavior more critically. Based on the eugenic-like philosophies purported by Hamilton, it's clear that viewing the human race as self-replicating machines has dangerous consequences that would forward white supremacy.
-
-
-    1. 1 related comment on the reading(s): I was really sad and shocked to hear that the Congo conflict was brought about by fabricated Belgium claims. I liked how this audio connected the conversation around self-sufficient computers with colonialism and racism. It's important to remember that Western mining activity  is completely rooted in colonialism and racism. 
-    
-    1. 1 related follow-up question (what question does it bring up for you?): How can the human race distance itself from the "fatalistic philosophy of us as helpless computing machines"?
-
-### Experiments
-1. Name of the experiment
-    1. Text, photos, etc.
-    1. Describe the most important thing you learned (to share in class)
-    1. Write a quiz question (which we will discuss in class)
-
 ## Week 6
 
 ### Context
