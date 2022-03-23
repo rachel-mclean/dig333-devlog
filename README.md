@@ -142,7 +142,8 @@ The command line is much faster than clicking around in my directories. I'm exci
 
 1. CodeAcademy helpful notes
     1. <img src ="https://user-images.githubusercontent.com/59896196/159640015-98198427-0186-4b2d-ada2-07d80b5520e5.png" width="250" height="200">
-
+    2. Record of completing Syntax Lesson:
+    3. <img src = "https://user-images.githubusercontent.com/59896196/159641063-de1ca6c4-5ba4-4cbb-97a5-997c68448c07.png" width="450" height="300">
 
 ## Week 3
 
