@@ -215,7 +215,7 @@ The command line is much faster than clicking around in my directories. I'm exci
         * Install netatalk using "sudo apt-get update" and "sudo apt-get install netatalk" ☑️
         * Connect to server using your pi's IP address
         * I am not yet able to perform basic filsystem tasks because I'm trying to figure out this error
-        * <img src = "https://user-images.githubusercontent.com/59896196/159655702-d5092cc6-3cd6-4b0e-806a-658353495403.png" width="150" height="100"
+        * <img src = "https://user-images.githubusercontent.com/59896196/159655702-d5092cc6-3cd6-4b0e-806a-658353495403.png" width="150" height="100">
 
 ## Week 4
 
