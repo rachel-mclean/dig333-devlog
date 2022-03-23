@@ -220,13 +220,21 @@ The command line is much faster than clicking around in my directories. I'm exci
 1. Platt, Experiment 8: A Relay Oscillator (pg. 65)
     1. Notes
         * <img src = "https://user-images.githubusercontent.com/59896196/159627865-1e153ac4-9e13-4589-acca-7554bd3ba53c.jpg" width="250" height="400">
-        * Breadboards are the most popular prototyping tool, but make it harder for me to visualie the connections that are happening.
+        * Breadboards are the most popular prototyping tool, but make it harder for me to visualize the connections that are happening.
         * Copper strips inside the breadboard make the connections between components plugged into the breadboard.
         * <img src = "https://user-images.githubusercontent.com/59896196/159626378-258db91b-0ca0-49a2-a480-ad38ec38fb02.png" width="300" height="300">
         * <img src = "https://user-images.githubusercontent.com/59896196/159626634-a1be2b74-16e8-49be-a058-2ff9b3b9e0bf.png" width="300" height="300">
         * You can make your own jumper cables by stripping wire.
+        * Capacitators can be compared to water. Imagine a capacitator as a water balloon, and the battery is the hose that fills the tank.
+        * Capacitators are very sensitive to wrong polarity.
+        * A large capacitator can kill you because it can retain very high voltage for long periods of time.
+        * The storage ability of capacitators is measured in farads, where 1uF = 1/1,000,000th of a farad.
+        * <img src = "https://user-images.githubusercontent.com/59896196/159629004-df932a10-9d68-4d9e-906d-82e9966e59e0.png" width="300" height="300">
+        * Ceramic capacitators don't have polarity, while electrolytics do. 
     1. Describe the most important thing you learned (to share in class)
-    1. Write a quiz question (which we will discuss in class)
+        * Capacitators function like tiny batteries and undergo charging and discharging processes.
+        * To find breadboard errors: check voltages, check placement of jumper cables, check the orientation of components is offering the correct polarity, check that resistor & capacitator values are correct.
+    3. Write a quiz question (which we will discuss in class)
 
 1. Platt, Experiment 9: Time and Capacitators (pg. 75)
     1. Notes
