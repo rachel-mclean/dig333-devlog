@@ -428,7 +428,7 @@ White, and revealed the role that sensors have in militaristic behavior and thei
     1. <img src = "https://user-images.githubusercontent.com/59896196/159791841-fa45d3f4-2437-46fc-82bb-8d8f9f999e4e.png" width="300" height = "250">
     1. When making changes, must press "Command+r" in CyberDuck to see them.
 1. Lauren gave us an awesome tutorial on shift registers and binary counters. On our binary counter, the resistors are connected to the ground which are connected to the short end of the LEDs. The long end of the LED is connected to the power.
-    1. <img src = "https://user-images.githubusercontent.com/59896196/159795680-5992c717-4ad3-4130-a1e7-6a5c04e232ac.jpg" width="300" height = "250">
+    1. <img src = "https://user-images.githubusercontent.com/59896196/159795680-5992c717-4ad3-4130-a1e7-6a5c04e232ac.jpg" width="250" height = "400">
 
 
 
