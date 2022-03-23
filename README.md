@@ -140,6 +140,12 @@ The command line is much faster than clicking around in my directories. I'm exci
     1. If resistance in a circuit remains the same, how will increased voltage effect current?
         * Since I = V / R, increasing voltage increases current (amperage).
 
+1. Monk
+    1. RPi-s need enclosures to prevent connections on the circuit board from short-circuiting.
+    1. Zero is about half the size of Pi 3 or 4 and saves space. It also has wifi for remote access and is good for embedded electronics projects and electronic display boards. 
+    1. RPi 3 uses less power than RPi 4 and has Wifi and Bluetooth. RPi 3 is good for electronics, home automation, media centers, and electronic display boards.
+    2. RPi 4 allows for choice of memory sizes and a USB-C connector. It operates at a very hot temperature. RPi 4 is good for desktop computer replacement, computer vision, media centers, and electronic display boards.
+
 1. CodeAcademy helpful notes
     1. <img src ="https://user-images.githubusercontent.com/59896196/159640015-98198427-0186-4b2d-ada2-07d80b5520e5.png" width="250" height="200">
     2. Record of completing Syntax Lesson:
