@@ -162,15 +162,14 @@ The command line is much faster than clicking around in my directories. I'm exci
     
     1. 1 related follow-up question (what question does it bring up for you?): Oliver uses the phrase, "Engendering a healthy paranoia." Do you think the Critical Engineering Manifesto is supporting a healthy paranoia? What would healthy paranoia look like, on a day-to-day basis?
 
-- Artist Profile: Video (cannot access yet)
-    1. Summarize the article(s) in 3-4 sentences. Also include... 
+- Adam Curtis All Watched Over by Machines of Loving Grace Part 1 (2011)
+    1. Summarize the article(s) in 3-4 sentences: This video introduced Ayn Rand's philosophy of objectivism, and how she influenced people to relate self-interest, high moral purpose, and heroism with computers. Her way of thinking led to the California Ideology, which suggested that humans could replace old forms of societal order with computer networks. It was believed that this way of living would allow for greater individualism without compromising stability. This video also provided some economic context about how this way of thinking affected global economies.
  
-    1. 1 quote from the reading(s): 
+    1. 1 quote from the reading(s): "The internet, as it spreads, is going to radically accelerate that process of network formation - a different kind of global governance." The many multitudes of social medias that exist today is an example of rapid network formation. In a way, social media does act as a type of governance. It can be controlled and taken away to limit the voice & power of its nation's people, as we have seen with some countries during warfare.
 
-    1. 1 related comment on the reading(s): 
+    1. 1 related comment on the reading(s): This content presented an interesting philosophical history that I wasn't aware of. The idea that computers can turn people into heroic individuals who are connected by a stable order of networks sounds sketchy and idealistic to me. The philosophy relies upon the idea that every human only needs themselves. I agree with the conclusion — too much individual power causes corruption. As we've learned in prior content, I believe community and conviviality are essential to both individual happiness and societal growth. 
     
-    1. 1 related follow-up question (what question does it bring up for you?): 
-
+    1. 1 related follow-up question (what question does it bring up for you?): The conclusion states that the California Ideology did not deliver its promise. Instead, humans feel powerless and helpless in the systems that govern us. While this conclusion still rings true, this video was from 2011. Is there another popular ideology circulating today, that delivers a similar (or different) promise?
 ### Experiments
  
 1. Platt, Experiment 6: Very Simple Switching (pg. 50) — This experiment will acquaint you with the function of manually operated switches.
