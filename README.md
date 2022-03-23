@@ -220,6 +220,9 @@ The command line is much faster than clicking around in my directories. I'm exci
 1. Platt, Experiment 8: A Relay Oscillator (pg. 65)
     1. Notes
         * Breadboards are the most popular prototyping tool, but make it harder for me to visualie the connections that are happening.
+        * Copper strips inside the breadboard make the connections between components plugged into the breadboard.
+        * <img src = "https://user-images.githubusercontent.com/59896196/159626378-258db91b-0ca0-49a2-a480-ad38ec38fb02.png" width="300" height="300">
+        * You can make your own jumper cables by stripping wire.
     1. Describe the most important thing you learned (to share in class)
     1. Write a quiz question (which we will discuss in class)
 
