@@ -194,7 +194,7 @@ The command line is much faster than clicking around in my directories. I'm exci
     * On Tinkercad, I learned how to navigate the interface, use the camera controls, scale and copy objects, and create holes.
 
 1. CodeAcademy helpful notes
-    1. <img src = "https://user-images.githubusercontent.com/59896196/159647996-38dc9033-c8be-4701-9cec-93c4c28ac99f.png" width="150" height="200">
+    1. <img src = "https://user-images.githubusercontent.com/59896196/159647996-38dc9033-c8be-4701-9cec-93c4c28ac99f.png" width="150" height="150">
 
 
 1. Monk
