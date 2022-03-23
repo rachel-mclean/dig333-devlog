@@ -141,7 +141,7 @@ The command line is much faster than clicking around in my directories. I'm exci
         * Since I = V / R, increasing voltage increases current (amperage).
 
 1. CodeAcademy helpful notes
-    1. <img src = "https://user-images.githubusercontent.com/59896196/159640015-98198427-0186-4b2d-ada2-07d80b5520e5.png> width="300" height="300">
+    1. <img src ="https://user-images.githubusercontent.com/59896196/159640015-98198427-0186-4b2d-ada2-07d80b5520e5.png" width="300" height="300">
 
 
 ## Week 3
