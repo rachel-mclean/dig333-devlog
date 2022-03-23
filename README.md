@@ -194,8 +194,16 @@ The command line is much faster than clicking around in my directories. I'm exci
     * On Tinkercad, I learned how to navigate the interface, use the camera controls, scale and copy objects, and create holes.
 
 1. CodeAcademy helpful notes
-    1. <img src = "https://user-images.githubusercontent.com/59896196/159647996-38dc9033-c8be-4701-9cec-93c4c28ac99f.png" width="150" height="150">
-
+    1. Strings
+        * <img src = "https://user-images.githubusercontent.com/59896196/159647996-38dc9033-c8be-4701-9cec-93c4c28ac99f.png" width="200" height="150">
+        * <img src = "https://user-images.githubusercontent.com/59896196/159648619-29f09e91-3aac-4347-9334-ab7170121313.png" width="200" height="150">
+        * The % operator after the string is can combine a string with variables. Use %s or %02d, for example, to fill in the statement with the string/integer variables at the end of the statement.
+        * Screenshot showing completion of "Strings" lesson:
+        * <img src = "https://user-images.githubusercontent.com/59896196/159650234-93dd0d6f-53fe-4aa5-b9c3-2616f27c833e.png" width="400" height="300">
+    1. Date Time
+        * <img src = "https://user-images.githubusercontent.com/59896196/159651499-b950450b-defb-42aa-81b3-8816d09034b9.png" width="400" height="100"
+        * Screenshot showing completion of "Strings" lesson:
+        * <img src = "https://user-images.githubusercontent.com/59896196/159651398-e088d883-ac12-458a-93d7-9cb4016c4964.png)" width="400" height="300">
 
 1. Monk
     1. Text, photos, etc.
