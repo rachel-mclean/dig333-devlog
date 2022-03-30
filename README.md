@@ -252,7 +252,7 @@ some other may work; something that we can't foresee or predict now may come alo
 
 ### Experiments
 1. CodeAcademy helpful notes
-    1."==" compares whether two things are equal, and "=" assigns a value to a variable.
+    1. "==" compares whether two things are equal, and "=" assigns a value to a variable.
     1. 3 Boolean operators:
         * "and" (checks if both the statements are True)
         * "or" ( checks if at least one of the statements is True)
