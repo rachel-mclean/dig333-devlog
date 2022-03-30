@@ -140,7 +140,7 @@ The command line is much faster than clicking around in my directories. I'm exci
     1. If resistance in a circuit remains the same, how will increased voltage effect current?
         * Since I = V / R, increasing voltage increases current (amperage).
 
-1. Monk
+1. Monk Ch. 1
     1. RPi-s need enclosures to prevent connections on the circuit board from short-circuiting.
     1. Zero is about half the size of Pi 3 or 4 and saves space. It also has wifi for remote access and is good for embedded electronics projects and electronic display boards. 
     1. RPi 3 uses less power than RPi 4 and has Wifi and Bluetooth. RPi 3 is good for electronics, home automation, media centers, and electronic display boards.
@@ -205,7 +205,7 @@ The command line is much faster than clicking around in my directories. I'm exci
         * Screenshot showing completion of "Date Time" lesson:
         * <img src = "https://user-images.githubusercontent.com/59896196/159651398-e088d883-ac12-458a-93d7-9cb4016c4964.png" width="400" height="300">
 
-1. Monk
+1. Monk Ch. 2
     1. Two different methods to find your IP address: hostname -I or ifconfig 
         * ![image](https://user-images.githubusercontent.com/59896196/159656120-97982007-04e8-4676-aa84-c9cc4b1b74a7.png)
         * My pi's IP address is 10.53.148.78
@@ -251,7 +251,28 @@ some other may work; something that we can't foresee or predict now may come alo
     1. 1 related follow-up question (what question does it bring up for you?): In the introduction, this audio asks if old hierarchies of power (such as governments, economies, and natural ecosystems) can by replaced by self-organizing networks. Humans dream of the self-organizing systems and fantasy machines that naturally attain their own state of equilibrium without interference. How is this phenomenon visible (or in-visible) in "Pay for the Printer" and "The Preserving Machine"?
 
 ### Experiments
-1. Name of the experiment
+1. CodeAcademy helpful notes
+    1."==" compares whether two things are equal, and "=" assigns a value to a variable.
+    1. 3 Boolean operators:
+        * "and" (checks if both the statements are True)
+        * "or" ( checks if at least one of the statements is True)
+        * "not" (gives the opposite of the statement)
+        * "not" is evaluated first, then "and", then "or"
+    1. Indentation is important in Python. An indent ("white space") indicates a new block of code. Python sees spaces and tabs differently.
+    1. To get user input, use "raw_input("whatever you want to get input on goes here").lower()
+    1. Add a colon at the end of if statements, defining functions, and loops
+    1. elif is short for “else if.”
+    1. <img src = "https://user-images.githubusercontent.com/59896196/160881661-d1353def-85e0-4a43-be06-4c0f71607e00.png" width="300" height = "200">
+    1. The function .isalpha() returns False if a string contains non-letter characters.
+    1. Slice up a string using the syntax "string[1:4]" This returns everything from the letter at position 1 (first letter is at 0) up till position 4.
+    1. <img src = "https://user-images.githubusercontent.com/59896196/160884470-4e81e03f-17a9-4aa6-a908-ae20404e957c.png" width="300" height = "200">
+
+1. Monk Ch. 3
+    1. Text, photos, etc.
+    1. Describe the most important thing you learned (to share in class)
+    1. Write a quiz question (which we will discuss in class)
+
+1. Monk Ch. 5
     1. Text, photos, etc.
     1. Describe the most important thing you learned (to share in class)
     1. Write a quiz question (which we will discuss in class)
