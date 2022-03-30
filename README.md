@@ -268,9 +268,39 @@ some other may work; something that we can't foresee or predict now may come alo
     1. <img src = "https://user-images.githubusercontent.com/59896196/160884470-4e81e03f-17a9-4aa6-a908-ae20404e957c.png" width="300" height = "200">
 
 1. Monk Ch. 3
-    1. Text, photos, etc.
-    1. Describe the most important thing you learned (to share in class)
-    1. Write a quiz question (which we will discuss in class)
+    1. To copy a file fron RPi onto a USB, insert the USB, mount USB in pi filesystem, and copy files using:
+        * $ cd /home/pi
+        * $ cp test.txt /media/pi/UNTITLED/
+    1. Navigating the Filesystem Using a Terminal
+        * In the terminal, 
+            * $ is the prompt
+            * The path is how to get to somewhere in the filesystem
+            * The root of the filsystem is / which can be found by "cd /"
+            * Home is /home/ which is the directory you have just come from
+            *  ~ (tilde) is shorthand for home directory
+        * "cd" allows you to change directory, "cd.." allows you to move up one leve in the directoryls, "pwd" means print working directory, "ls" is list all files/directories below root directory
+        * Use tab to complete filename
+        * The character * is called a wildcards. You can add it after the few couple letters to print options for file paths (ex. ls f* lists files that begin with an f)
+        * Listing hidden files can be done with " ls -a", which displays files with the prefix "."
+    1. Copy files using cp. Ex: "cp myfile.txt myfile2.txt"
+    1. Rename files using mv. Ex. "mv my_file.txt my_file.rtf 
+    1. Create/edit files using nano. Nano will follow the path and open that file if it exists. If it does not exist, it will create that file. The commands at the bottom allow you to navitate the nano editor (Ctrl-X to exit, Ctrl-V or Ctrl-Y to toggle next/previous page, etc). When you're ready to save, press Ctrl-X, press enter to save and exit
+    1. To view the contents of a file without editing it, use the "cat" or "more" command. "Cat" displays whole contents, "more" displays a little at a time.
+    1. To quickly create a small file, you can use "echo" and ">". Example: 'echo "file contents here" > test.txt'. Be careful that > will overwrite any existing files with that name.
+    1. To create a new directory, use "mkdir."
+    1. To delete a file, use "rm." Be sure to use this with caution. Ex: "rm myfile.txt" or "rm -r mydir" to delete a directory and what it contains
+    1. apt-get (used to install software) and reboot require superuser privileges. To do this, just preced each command with "sudo," ex. "sudo reboot". Or, write "sudo sh" if you have many commands and then complete commands as normal.
+    1. To change permissions in a file, use "chown" to modify ownership (files/directories have both owners & groups). To change the owner of a file, use chown followed by the new owner and group, separated by a colon, and then the name of the file. Ex: "$ sudo chown root:root file2.txt"
+    1. To take a screen capture, use "scrot" or "scrot -s" to capture specific area.
+    1. To install software, the basic format is "$ sudo apt-get install *name of software*" 
+    1. To remove installed software, the basic format is "$ sudo apt-get install *name of software*"
+    1. You can install python libraries using "pip." This command runs pip: $ sudo pip install svgwrite 
+    1. To fetch a file from the internet, use "wget".
+    1. To use code from a git repository, use the "git clone" command followed by the repository's URL.
+        * When you want to push changes, use these commands:
+        * $ git add . (adds all changed files)
+        * $ git commit m "message about what you changed or added"
+        * $ git push
 
 1. Monk Ch. 5
     1. Text, photos, etc.
