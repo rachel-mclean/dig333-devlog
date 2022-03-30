@@ -252,20 +252,29 @@ some other may work; something that we can't foresee or predict now may come alo
 
 ### Experiments
 1. CodeAcademy helpful notes
-    1. "==" compares whether two things are equal, and "=" assigns a value to a variable.
-    1. 3 Boolean operators:
-        * "and" (checks if both the statements are True)
-        * "or" ( checks if at least one of the statements is True)
-        * "not" (gives the opposite of the statement)
-        * "not" is evaluated first, then "and", then "or"
-    1. Indentation is important in Python. An indent ("white space") indicates a new block of code. Python sees spaces and tabs differently.
-    1. To get user input, use "raw_input("whatever you want to get input on goes here").lower()
-    1. Add a colon at the end of if statements, defining functions, and loops
-    1. elif is short for “else if.”
-    1. <img src = "https://user-images.githubusercontent.com/59896196/160881661-d1353def-85e0-4a43-be06-4c0f71607e00.png" width="300" height = "200">
-    1. The function .isalpha() returns False if a string contains non-letter characters.
-    1. Slice up a string using the syntax "string[1:4]" This returns everything from the letter at position 1 (first letter is at 0) up till position 4.
-    1. <img src = "https://user-images.githubusercontent.com/59896196/160884470-4e81e03f-17a9-4aa6-a908-ae20404e957c.png" width="300" height = "200">
+    1. Conditionals
+        * "==" compares whether two things are equal, and "=" assigns a value to a variable.
+        * 3 Boolean operators:
+            * "and" (checks if both the statements are True)
+            * "or" ( checks if at least one of the statements is True)
+            * "not" (gives the opposite of the statement)
+            * "not" is evaluated first, then "and", then "or"
+        * Indentation is important in Python. An indent ("white space") indicates a new block of code. Python sees spaces and tabs differently.
+        * To get user input, use "raw_input("whatever you want to get input on goes here").lower()
+        * Add a colon at the end of if statements, defining functions, and loops
+        * elif is short for “else if.”
+        * <img src = "https://user-images.githubusercontent.com/59896196/160881661-d1353def-85e0-4a43-be06-4c0f71607e00.png" width="300" height = "200">
+        * The function .isalpha() returns False if a string contains non-letter characters.
+        * Slice up a string using the syntax "string[1:4]" This returns everything from the letter at position 1 (first letter is at 0) up till position 4.
+        * <img src = "https://user-images.githubusercontent.com/59896196/160884470-4e81e03f-17a9-4aa6-a908-ae20404e957c.png" width="300" height = "200">
+    1. Functions
+        * You can import a single module from a function, like this: "from module import function" instead of doing module.function() each time.
+        * You can also do a universal import so you don't have to type "math.sqrt()" each time, which looks like: "from module import *"
+        * For example, "from math" imports the math module, so that you have write "math.sqrt()" each time. "from math import sqrt()" imports just the sqrt function, so you can just write "sqrt()" without the math prefix.
+        * To see everything available in the module, write "dir(mod)"
+        * Built in functions include min(), max(), abs()
+        * The type() function returns the type of data it receives
+        * <img src = "https://user-images.githubusercontent.com/59896196/160918533-598c6701-49e8-4f74-8cda-ecd3e658bcab.png" width="300" height="200">
 
 1. Monk Ch. 3
     1. To copy a file fron RPi onto a USB, insert the USB, mount USB in pi filesystem, and copy files using:
