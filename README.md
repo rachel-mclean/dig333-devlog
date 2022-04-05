@@ -496,6 +496,6 @@ White, and revealed the role that sensors have in militaristic behavior and thei
 
 ## Week 10
 1. Installed script package in Atom 
-    1. <img src="https://user-images.githubusercontent.com/59896196/161835231-7eff827d-e753-4dc5-a06e-efd562b5f0fc.png" width="350" height="250">
+    1. <img src="https://user-images.githubusercontent.com/59896196/161835231-7eff827d-e753-4dc5-a06e-efd562b5f0fc.png" width="450" height="300">
 
 
