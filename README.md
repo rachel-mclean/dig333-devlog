@@ -278,7 +278,7 @@ some other may work; something that we can't foresee or predict now may come alo
     1. Taking a vacation
         * <img src="https://user-images.githubusercontent.com/59896196/161827270-4e60ddc4-d54f-4a8f-87e7-939d6ab66305.png" width="300" height="200">
 
-1. Monk Ch. 3
+1. Monk Ch. 3 Operating System
     1. To copy a file fron RPi onto a USB, insert the USB, mount USB in pi filesystem, and copy files using:
         * $ cd /home/pi
         * $ cp test.txt /media/pi/UNTITLED/
@@ -313,7 +313,7 @@ some other may work; something that we can't foresee or predict now may come alo
         * $ git commit m "message about what you changed or added"
         * $ git push
 
-1. Monk Ch. 5
+1. Monk Ch. 5 Python Basics
     1. Python content covered in CodeAcademy
 
 ## Week 5
@@ -473,15 +473,62 @@ White, and revealed the role that sensors have in militaristic behavior and thei
     1. 1 related follow-up question (what question does it bring up for you?): What does consent mean in the context of invisible sensors and invisible surveillance? Do we deserve informed consent, or are these surveillance methods for our own good?
 
 ### Experiments
-1. Name of the experiment
+1. Platt, Experiment 11
     1. Text, photos, etc.
     1. Describe the most important thing you learned (to share in class)
     1. Write a quiz question (which we will discuss in class)
 
+1. Platt, Experiment 12
+    1. Text, photos, etc.
+    1. Describe the most important thing you learned (to share in class)
+    1. Write a quiz question (which we will discuss in class)
+
+1. Platt, Experiment 13
+    1. Text, photos, etc.
+    1. Describe the most important thing you learned (to share in class)
+    1. Write a quiz question (which we will discuss in class)
+
+1. CodeAcademy Lists and Dictionaries
+    1. To find the length of a list, use len(list)
+    1. To get a slice of a list, use list[1:3], which includes the element with the first index, but excludes the element with the second index.
+    1. Use .index(item) to find the index of item
+    1. Use .insert(index, item) to insert item at index
+    1. To add new key/value pairs to a dictionary, use dict_name[new_key] = new_value
+
+1. CodeAcademy Supermarket
+    1. Text, photos, etc.
+    1. Describe the most important thing you learned (to share in class)
+    1. Write a quiz question (which we will discuss in class)
+
+1. Monk Ch. 6 Python Lists and Dictionaries
+    1. Text, photos, etc.
+    1. Describe the most important thing you learned (to share in class)
+    1. Write a quiz question (which we will discuss in class)
+
+1. Monk Ch. 8 GPIO basics
+    1. Text, photos, etc.
+    1. Describe the most important thing you learned (to share in class)
+    1. Write a quiz question (which we will discuss in class)
 
 ## Week 7
-
+### Experiments
+1. Monk Ch. 10 Controlling Hardware
+    1. Text, photos, etc.
+    1. Describe the most important thing you learned (to share in class)
+    1. Write a quiz question (which we will discuss in class)
+   
 ## Week 8
+
+### Experiments
+1. Monk Ch. 11 Digital Inputs
+    1. Text, photos, etc.
+    1. Describe the most important thing you learned (to share in class)
+    1. Write a quiz question (which we will discuss in class)
+
+1. Monk Ch. 12 Sensors
+    1. Text, photos, etc.
+    1. Describe the most important thing you learned (to share in class)
+    1. Write a quiz question (which we will discuss in class)
 
 ### Project Progress
 1. With Dr. Mundy's help, I installed CyberDuck and created a new bookmark called "rachelpi" that I connected to the rachelpi server. This lets me create and edit Python files in the Terminal through my pi.
