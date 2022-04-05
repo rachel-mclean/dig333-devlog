@@ -275,6 +275,8 @@ some other may work; something that we can't foresee or predict now may come alo
         * Built in functions include min(), max(), abs()
         * The type() function returns the type of data it receives
         * <img src = "https://user-images.githubusercontent.com/59896196/160918533-598c6701-49e8-4f74-8cda-ecd3e658bcab.png" width="300" height="200">
+    1. Taking a vacation
+        * <img src="https://user-images.githubusercontent.com/59896196/161827270-4e60ddc4-d54f-4a8f-87e7-939d6ab66305.png" width="300" height="200">
 
 1. Monk Ch. 3
     1. To copy a file fron RPi onto a USB, insert the USB, mount USB in pi filesystem, and copy files using:
