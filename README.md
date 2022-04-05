@@ -497,7 +497,7 @@ White, and revealed the role that sensors have in militaristic behavior and thei
     1. <img src="https://user-images.githubusercontent.com/59896196/161835231-7eff827d-e753-4dc5-a06e-efd562b5f0fc.png" width="450" height="300">
 1. New final project repository, which I have set up in Atom, GitHub Desktop, and on my pi: [repo link](https://github.com/rachel-mclean/dig333-final-project.git)
     1. Set up 2FA and personal access token so I can push changes from my pi's command line to the repository.
-    2. To push changes, use Username: <rachel-mclean> and Password: <my-personal-access-token> when prompted
+    2. To push changes, use Username: "rachel-mclean" and Password: "my-personal-access-token" when prompted
 
 ## Week 10
 
