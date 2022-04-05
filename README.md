@@ -493,12 +493,12 @@ White, and revealed the role that sensors have in militaristic behavior and thei
     1. To get a slice of a list, use list[1:3], which includes the element with the first index, but excludes the element with the second index.
     1. Use .index(item) to find the index of item
     1. Use .insert(index, item) to insert item at index
-    1. To add new key/value pairs to a dictionary, use dict_name[new_key] = new_value
+    1. Use .remove(item) to remove an item from a list
+    1. To add new key/value pairs to a dictionary, use "dict_name[new_key] = new_value"
+    1. To delete a key/value pair, use "del dict_name[key_name]"
 
 1. CodeAcademy Supermarket
-    1. Text, photos, etc.
-    1. Describe the most important thing you learned (to share in class)
-    1. Write a quiz question (which we will discuss in class)
+    1. <img src="https://user-images.githubusercontent.com/59896196/161862207-9e4f57cc-b45c-4cf0-ae63-745ebc3fd7c9.png" width="350" heigh="250">
 
 1. Monk Ch. 6 Python Lists and Dictionaries
     1. Text, photos, etc.
