@@ -314,9 +314,7 @@ some other may work; something that we can't foresee or predict now may come alo
         * $ git push
 
 1. Monk Ch. 5
-    1. Text, photos, etc.
-    1. Describe the most important thing you learned (to share in class)
-    1. Write a quiz question (which we will discuss in class)
+    1. Python content covered in CodeAcademy
 
 ## Week 5
 
