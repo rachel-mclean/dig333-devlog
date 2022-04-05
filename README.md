@@ -492,5 +492,10 @@ White, and revealed the role that sensors have in militaristic behavior and thei
 1. Lauren gave us an awesome tutorial on shift registers and binary counters. On our binary counter, the resistors are connected to the ground which are connected to the short end of the LEDs. The long end of the LED is connected to the power.
     1. <img src = "https://user-images.githubusercontent.com/59896196/159795680-5992c717-4ad3-4130-a1e7-6a5c04e232ac.jpg" width="250" height = "400">
 
+## Week 9
+
+## Week 10
+1. Installed script package in Atom 
+    1. <img src="https://user-images.githubusercontent.com/59896196/161835231-7eff827d-e753-4dc5-a06e-efd562b5f0fc.png" width="200" height="150">
 
 
