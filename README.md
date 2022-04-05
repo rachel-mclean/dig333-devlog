@@ -494,11 +494,16 @@ White, and revealed the role that sensors have in militaristic behavior and thei
     1. Use .index(item) to find the index of item
     1. Use .insert(index, item) to insert item at index
     1. Use .remove(item) to remove an item from a list
+    1. Simple dictionary
+    1. <img src="https://user-images.githubusercontent.com/59896196/161863043-1bb6d079-5584-4abe-8bbb-9cc2c9ffb843.png" width="150" height="150">
     1. To add new key/value pairs to a dictionary, use "dict_name[new_key] = new_value"
     1. To delete a key/value pair, use "del dict_name[key_name]"
+    1. <img src="https://user-images.githubusercontent.com/59896196/161862207-9e4f57cc-b45c-4cf0-ae63-745ebc3fd7c9.png" width="400" heigh="300">
 
 1. CodeAcademy Supermarket
-    1. <img src="https://user-images.githubusercontent.com/59896196/161862207-9e4f57cc-b45c-4cf0-ae63-745ebc3fd7c9.png" width="350" heigh="250">
+    1. How to loop through dictionary
+    1. <img src="https://user-images.githubusercontent.com/59896196/161862532-d382625c-0ac9-42c1-8c36-76769592dc89.png" width="300" height="150">
+    1. <img src="https://user-images.githubusercontent.com/59896196/161864600-c0510930-a6f9-42ca-8819-78d1e01b38b1.png" width="350" height="250">
 
 1. Monk Ch. 6 Python Lists and Dictionaries
     1. Text, photos, etc.
