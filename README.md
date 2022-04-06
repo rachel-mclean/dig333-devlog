@@ -506,14 +506,8 @@ White, and revealed the role that sensors have in militaristic behavior and thei
     1. <img src="https://user-images.githubusercontent.com/59896196/161864600-c0510930-a6f9-42ca-8819-78d1e01b38b1.png" width="350" height="250">
 
 1. Monk Ch. 6 Python Lists and Dictionaries
-    1. Text, photos, etc.
-    1. Describe the most important thing you learned (to share in class)
-    1. Write a quiz question (which we will discuss in class)
-
-1. Monk Ch. 8 GPIO basics
-    1. Text, photos, etc.
-    1. Describe the most important thing you learned (to share in class)
-    1. Write a quiz question (which we will discuss in class)
+    1. To return the value removed from a list, use "list.pop(index)"
+    1. Use "word word word".split() to separate a string into words. You can also split by a specific character.
 
 ## Week 7
 ### Experiments
