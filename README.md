@@ -545,5 +545,7 @@ White, and revealed the role that sensors have in militaristic behavior and thei
 
 ## Week 10
 
+## Week 11
 
-
+## Week 12
+    1. Updated Tinkercad design [here](https://www.tinkercad.com/things/37gWwb9qrOn-exquisite-blorr/edit)
