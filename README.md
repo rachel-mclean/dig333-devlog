@@ -538,6 +538,13 @@ White, and revealed the role that sensors have in militaristic behavior and thei
     1. Describe the most important thing you learned (to share in class)
     1. Write a quiz question (which we will discuss in class)
 
+1. CodeAcademy Loops
+    1. <img src="https://user-images.githubusercontent.com/59896196/164995455-6fbd2e7f-8dd4-4659-b875-a01e07d03f1a.png" width="400" height = "300">
+
+
+1. CodeAcademy Practice Makes Perfect
+    1. 
+
 ### Project Progress
 1. With Dr. Mundy's help, I installed CyberDuck and created a new bookmark called "rachelpi" that I connected to the rachelpi server. This lets me create and edit Python files in the Terminal through my pi.
     1. <img src = "https://user-images.githubusercontent.com/59896196/159791841-fa45d3f4-2437-46fc-82bb-8d8f9f999e4e.png" width="300" height = "250">
