@@ -520,10 +520,10 @@ White, and revealed the role that sensors have in militaristic behavior and thei
     1. <img src="https://user-images.githubusercontent.com/59896196/164954223-b1a6bd85-116d-486d-9c84-c995a49c2a6a.png" width = "400" height = "300">
 
 1. CodeAcademy List and Functions
-    1. <img src="https://user-images.githubusercontent.com/59896196/164954881-0216f634-3753-4c9e-b851-ccb7580b3fe2.png"width = "400" height = "300">
+    1. <img src="https://user-images.githubusercontent.com/59896196/164954881-0216f634-3753-4c9e-b851-ccb7580b3fe2.png" width = "400" height = "300">
 
 1. CodeAcademy Battleship
-
+    1. <img src="https://user-images.githubusercontent.com/59896196/164955553-afae0843-8422-465d-942a-762edfb9d87d.png" width = "400" height = "300">
    
 ## Week 8
 
