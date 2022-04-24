@@ -515,6 +515,10 @@ White, and revealed the role that sensors have in militaristic behavior and thei
     1. Text, photos, etc.
     1. Describe the most important thing you learned (to share in class)
     1. Write a quiz question (which we will discuss in class)
+
+1. Code Academy "Student Becomes the Teacher"
+    1. <img src="https://user-images.githubusercontent.com/59896196/164954223-b1a6bd85-116d-486d-9c84-c995a49c2a6a.png" width = "400" height = "300">
+
    
 ## Week 8
 
