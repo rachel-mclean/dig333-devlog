@@ -543,7 +543,8 @@ White, and revealed the role that sensors have in militaristic behavior and thei
 
 
 1. CodeAcademy Practice Makes Perfect
-    1. 
+    1. <img src="https://user-images.githubusercontent.com/59896196/166121453-b2a12161-2f48-4f15-bbf7-b1281839ea13.png" width="400" height = "300">
+
 
 ### Project Progress
 1. With Dr. Mundy's help, I installed CyberDuck and created a new bookmark called "rachelpi" that I connected to the rachelpi server. This lets me create and edit Python files in the Terminal through my pi.
